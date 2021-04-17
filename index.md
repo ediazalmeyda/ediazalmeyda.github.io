@@ -5,7 +5,7 @@ layout: default
 <div class="my-hero-align my-pad-top">
   <div class="my-flex my-col-center">
     <div class="my-col-40 my-hero-profile">
-      <img src="/paper/assets/img/profile.jpg">
+      <img src="/assets/img/profile.jpg">
     </div>
     <div class="my-col-60 my-hero-text">
       <h2>Erika Díaz-Almeyda, Ph.D.</h2>
@@ -24,7 +24,7 @@ In my lab, we explore how mutualisms respond and adapt to anthropogenic stressor
 
 We utilize experimental biology (host-symbiont physiology, genomics, and experimental evolution) and fieldwork approaches to study mutualisms in **coral reef ecosystems**, **agroecological systems** ([Milpa](https://en.wikipedia.org/wiki/Milpa){:target="_blank"}, an ancient agricultural method from Mesoamerica; urban food forests; and host-microbe interactions in agricultural pests), and **coupled human-environment systems** (coastlines; coastal rivers; managed ranches; archaeological sites; and sustainable landscape design).
 
-<p><img src="/paper/assets/img/diving.jpg"></p>
+<p><img src="/assets/img/diving.jpg"></p>
 <p class="my-img-cap">Dr. Díaz diving at the Mesoamerican Barrier Reef System near the UNAM field station in Puerto Morelos, Quintana Roo, México.</p>
 
 My lab also engages in interdisciplinary research with anthropologists, botanists, geographers, and community stakeholders to study how microbial biodiversity may assist in preserving archaeological sites.
@@ -35,7 +35,7 @@ Learn more [about my research](/research/).
 
 # Teaching
 
-<p><img src="/paper/assets/img/ncf.jpg"></p>
+<p><img src="/assets/img/ncf.jpg"></p>
 <p class="my-img-cap">New College of Florida campus along Sarasota Bay (photo by Chip Litherland).</p>
 
 I teach inquiry-based courses and laboratories that emphasize critical thinking, collaboration, and ethical engagement. Going beyond the classroom, I utilize local fieldwork components to connect course content with local and global challenges and to engage ethical reasoning. I use the [Transparency in Learning and Teaching (TILT)](https://tilthighered.com){:target="_blank"} approach to advance equitable teaching and learning practices, and reduce systemic inequities in higher education.
