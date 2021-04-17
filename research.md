@@ -5,7 +5,7 @@ permalink: /research/
 
 <div class="my-hero">
   <h1>Microbial ecology of mutualisms</h1>
-  <p><img src="/assets/img/research.jpg"></p>
+  <p><img src="/assets/img/trca.jpg"></p>
   <p>Undergraduate researchers during fieldwork at the Triangle Ranch Conservation Area.</p>
 </div>
 
