@@ -31,6 +31,14 @@ We utilize experimental biology (host-symbiont physiology, genomics, and experim
 
 New College is a public liberal arts honors college, and my lab incorporates undergraduates in all aspects of research, from hypothesis to publication. My lab also collaborates in interdisciplinary research with anthropologists, botanists, geographers, and community stakeholders.
 
+### Grants and Fellowships
+
+My lab's current research at New College of Florida is generously funded by [The J. Stuart and Elizabeth Moore Charitable Foundation](https://www.ncf.edu/news/news/new-college-microbiome-project-gains-support/){:target="_blank"} and the [New College Faculty Development Fund](https://www.ncf.edu/alumni-and-friends/the-foundation/){:target="_blank"}.
+
+My postdoctoral research at Emory University was generously funded by [NIH-IRACDA](https://med.emory.edu/education/postdoctoral-training/first/index.html){:target="_blank"}.
+
+My Ph.D. research at Penn State University and Masters research at Universidad Nacional Autónoma de México (National Autonomous University of Mexico) was generously funded by [CONACYT](https://en.wikipedia.org/wiki/Consejo_Nacional_de_Ciencia_y_Tecnolog%C3%ADa_\(Mexico\)){:target="_blank"} (Consejo Nacional de Ciencia y Tecnología / National Council of Science and Technology in México).
+
 # <a id="coral"></a>Symbiosis in coral reef ecosystems
 
 Coral reefs are at risk to become the first ecosystem to collapse as a consequence of climate change. My research aims to understand how coral reef symbiosis is disrupted by anthropogenic stressors, and to explore the mechanisms of acclimation to a warming ocean.
@@ -75,8 +83,8 @@ My lab also uses the upside-down jellyfish _Cassiopea xamachana_ as a model orga
 
 Related publications:
 - Alterations in transcriptional and developmental regulation: Evolutionary implication of symbiosis in _Cassiopea xamachana_ (in prep)
-- O'Rourke, A., Ohdera, A., Sunagawa, S., **Diaz-Almeyda, E. M.**, DeSalvo, M. K., Coffroth, M. A., Voolstra, C. R., & Medina, M. (2017). [Gene expression of settled and metamorphosed _Orbicella faveolata_ during establishment of symbiosis (No. e3283v1)](https://peerj.com/preprints/3283/){:target="_blank"}. PeerJ Preprints.
 - Hartmann, A. C., Marhaver, K. L., Klueter, A., Lovci, M. T., Closek, C. J., **Diaz, E.**, Chamberland, V. F., Archer, F. I., Deheyn, D. D., Vermeij, M. J. A., & Medina, M. (2019). [Acquisition of obligate mutualist symbionts during the larval stage is not beneficial for a coral host](https://onlinelibrary.wiley.com/doi/abs/10.1111/mec.14967){:target="_blank"}. Molecular ecology, 28(1), 141-155.
+- O'Rourke, A., Ohdera, A., Sunagawa, S., **Diaz-Almeyda, E. M.**, DeSalvo, M. K., Coffroth, M. A., Voolstra, C. R., & Medina, M. (2017). [Gene expression of settled and metamorphosed _Orbicella faveolata_ during establishment of symbiosis (No. e3283v1)](https://peerj.com/preprints/3283/){:target="_blank"}. PeerJ Preprints.
 
 # <a id="agro"></a>Host-microbe interactions in agroecology
 
@@ -85,9 +93,9 @@ My lab aims to understand host-microbe interactions that support a variety of su
 <p><img src="/assets/img/kino.jpg"></p>
 <p class="my-img-cap">Poster presentation on Milpa research with undergraduate advisee Kino Maravillas.</p>
 
-Agricultural pests and their microbes are an excellent experimental system to study host-microbe interactions. In collaboration with the Gerardo Lab at Emory University, we use transcriptomics to understand how the absence of an obligate symbiont impacts the overall health of its host as well as the detailed mechanisms how the insect gut (crypts) harbours microbial symbionts.
+Agricultural pests and their microbes are an excellent experimental system to study host-microbe interactions. In collaboration with the [Gerardo Lab](https://scholarblogs.emory.edu/gerardolab/){:target="_blank"} at Emory University, we use transcriptomics to understand how the absence of an obligate symbiont impacts the overall health of its host as well as the detailed mechanisms how the insect gut (crypts) harbours microbial symbionts.
 
-Using experimental evolution with squash bugs (Anasa tristis) and their horizontally transmitted symbiont (Burkholderia) we explore how the mode of transmission of the symbiont affects the fitness of the symbiont and its host.
+Using experimental evolution with squash bugs (_Anasa tristis_) and their horizontally transmitted symbiont (_Burkholderia_) we explore how the mode of transmission of the symbiont affects the fitness of the symbiont and its host.
 
 Our broader goal of this research is to reduce or eliminate pesticide use in managing agricultural pests.
 
@@ -95,7 +103,7 @@ Related publications:
 - Effect of diet on symbiont density within an invasive agricultural pest (in prep)
 - Effect of presence/absence of obligate symbionts in Kudzu bugs (_Megacopta cribaria_) (in prep)
 - Evolving _Burkholderia_ symbionts in the presence and absence of their insect host (in prep)
-- Maravillas, K. E., Diaz-Almeyda, E., & Gerardo, N. (2019). [Bacterial Growth in Milpa Polyculture and Monoculture Soils \[Emory University\]](https://www.jsr.org/index.php/path/article/view/691){:target="_blank"}. Journal of Student Research.
+- Maravillas, K. E., **Diaz-Almeyda, E.**, & Gerardo, N. (2019). [Bacterial Growth in Milpa Polyculture and Monoculture Soils \[Emory University\]](https://www.jsr.org/index.php/path/article/view/691){:target="_blank"}. Journal of Student Research.
 
 # <a id="env"></a>Microbial biodiversity of coupled human-environment systems
 
