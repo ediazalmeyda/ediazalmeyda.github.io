@@ -94,7 +94,7 @@ Related publications:
 - Effect of diet on symbiont density within an invasive agricultural pest (in prep)
 - Effect of presence/absence of obligate symbionts in Kudzu bugs (_Megacopta cribaria_) (in prep)
 - Evolving _Burkholderia_ symbionts in the presence and absence of their insect host (in prep)
-- Maravillas, K. E., Diaz-Almeyda, E., & Gerardo, N. (2019). [Bacterial Growth in Milpa Polyculture and Monoculture Soils \[Emory University]](https://www.jsr.org/index.php/path/article/view/691){:target="_blank"}. Journal of Student Research.
+- Maravillas, K. E., Diaz-Almeyda, E., & Gerardo, N. (2019). [Bacterial Growth in Milpa Polyculture and Monoculture Soils \[Emory University\]](https://www.jsr.org/index.php/path/article/view/691){:target="_blank"}. Journal of Student Research.
 
 # <a id="env"></a>Microbial biodiversity of coupled human-environment systems
 
