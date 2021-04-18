@@ -82,12 +82,21 @@ I use the [Transparency in Learning and Teaching (TILT)](https://tilthighered.co
 
 During my Postdoctoral Fellowship in the Department of Biology at <a href="https://www.emory.edu" target="_blank">Emory University</a>, I had the extraordinary opportunity to teach a summer course (Intro to Biology) with the <a href="https://tibet.emory.edu" target="_blank">Emory-Tibet Science Initiative (ETSI)</a>. ETSI was the formal integration of science education at Tibetan Buddhist monasteries and nunneries in India. It represented the most significant change in 600 years for the traditional Tibetan Buddhist monastic curriculum. I co-taught biology at Gaden Monastery in India.
 
-Stay tuned for a **forthcoming paper** on how being an ETSI faculty member informed my teaching philosophy.
+Stay tuned for a **forthcoming paper** in _Frontiers in Communication_ on how being an ETSI faculty member informed my teaching philosophy.
+
+<p><img src="/assets/img/etsi2.jpg"></p>
+<p class="my-img-cap">Monks learning to make a field notebook to inspire hypotheses.</p>
+
+<p><img src="/assets/img/etsi3.jpg"></p>
+<p class="my-img-cap">Activity to understand natural selection.</p>
+
+<p><img src="/assets/img/etsi4.jpg"></p>
+<p class="my-img-cap">Monks on their way to class.</p>
 
 # <a id="jedi"></a>JEDI: Justice, Equity, Diversity, Inclusion
 
 <p><img src="/assets/img/jedi.jpg"></p>
-<p class="my-img-cap">"You must complete your training." - Yoda</p>
+<p class="my-img-cap"><i>"You must complete your training."</i> - Yoda</p>
 
 ### JEDI Resources:
 
