@@ -11,12 +11,12 @@ permalink: /people/
 
 # Current Lab Members
 
-**Principal Investigator:**
-Erika Díaz-Almeyda, Ph.D.
-Assistant Professor of Biology and Environmental Studies
+**Principal Investigator:**\
+Erika Díaz-Almeyda, Ph.D.\
+Assistant Professor of Biology and Environmental Studies\
 New College of Florida
 
-**Lab Manager:**
+**Lab Manager:**\
 Cara Ruhnke (class of 2022)
 
 **Undergraduate Thesis Students:**
