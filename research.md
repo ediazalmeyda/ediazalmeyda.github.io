@@ -98,9 +98,12 @@ Related publications:
 
 # <a id="env"></a>Microbial biodiversity of coupled human-environment systems
 
-My lab is engaged in longitudinal microbial biodiversity assessments in coupled human-environment systems, including: the Triangle Ranch Conservation Area that surrounds the Myakka River; the sustainable landscape design at the Florida House Institute; beaches in the Florida Keys. Cohorts of undergraduate researchers in my lab are documenting microbial diversity and generating long-term datasets to support community stakeholders and decision-makers involved in water and land management.
+My lab is engaged in longitudinal microbial biodiversity assessments in coupled human-environment systems, including: the [Triangle Ranch Conservation Area](https://www.conservationfoundation.com/triangle-ranch-conservation-area/?back=Properties){:target="_blank"} that surrounds the Myakka River; the sustainable landscape design at the [Florida House Institute](http://floridahouseinstitute.org){:target="_blank"}; beaches in the Florida Keys. Cohorts of undergraduate researchers in my lab are documenting microbial diversity and generating long-term datasets to support community stakeholders and decision-makers involved in water and land management.
 
-My lab is also collaborating with anthropologists, botanists, geographers, and community stakeholders to document changes in biodiversity in fragile ecosystems and archaeological sites that are projected to be affected by climate change and rising sea level in the near-term. My lab is documenting microbes associated with a coastal architecture called tabby (an 18th to early 20th century architectural material made from oyster shells) at De Soto National Memorial. Our goal is to inform management practices and contribute to the conservation of coastal heritage.
+<img src="/assets/img/trca.jpg">
+<p class="my-img-cap">Undergraduate researchers during fieldwork at the Triangle Ranch Conservation Area.</p>
+
+My lab is also collaborating with anthropologists, botanists, geographers, and community stakeholders to document changes in biodiversity in fragile ecosystems and archaeological sites that are projected to be affected by climate change and rising sea level in the near-term. My lab is documenting microbes associated with a coastal architecture called [tabby](https://en.wikipedia.org/wiki/Tabby_concrete){:target="_blank"} (an 18th to early 20th century architectural material made from oyster shells) at [De Soto National Memorial](https://www.nps.gov/deso/index.htm){:target="_blank"}. Our goal is to inform management practices and contribute to the conservation of coastal heritage.
 
 # <a id="pub"></a>Publications
 
