@@ -81,6 +81,9 @@ Related publications:
 
 My lab aims to understand host-microbe interactions that support a variety of sustainable agroecological practices. We are currently investigating the mechanisms underlying the antibiotic disease resistance in soil exposed to Milpa, an ancient agricultural polycrop from Mesoamerica. We are also assessing microbial biodiversity in urban food forests.
 
+<p><img src="/assets/img/kino.jpg"></p>
+<p class="my-img-cap">Poster presentation on Milpa research with undergraduate advisee Kino Maravillas.</p>
+
 Agricultural pests and their microbes are an excellent experimental system to study host-microbe interactions. In collaboration with the Gerardo Lab at Emory University, we use transcriptomics to understand how the absence of an obligate symbiont impacts the overall health of its host as well as the detailed mechanisms how the insect gut (crypts) harbours microbial symbionts.
 
 Using experimental evolution with squash bugs (Anasa tristis) and their horizontally transmitted symbiont (Burkholderia) we explore how the mode of transmission of the symbiont affects the fitness of the symbiont and its host.
