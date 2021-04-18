@@ -36,6 +36,7 @@ New College is a public liberal arts honors college, and my lab incorporates und
 Coral reefs are at risk to become the first ecosystem to collapse as a consequence of climate change. My research aims to understand how coral reef symbiosis is disrupted by anthropogenic stressors, and to explore the mechanisms of acclimation to a warming ocean.
 
 <p><img src="/assets/img/coral.jpg"></p>
+<p class="my-img-cap">Colony of _Orbicella faveolata_ (mountainous star) coral.</p>
 
 Coral reefs are built by colonies of coral polyps, small marine invertebrates (cnidarians, like jellyfish and sea anemone). In a symbiotic relationship, corals (the host) provide Symbiodiniaceae (the symbiont; a photosynthetic algae) with a home and a supply of inorganic molecules, while the algae provide corals with nutrient byproducts from photosynthesis. Increases in ocean temperature, driven by climate change, prompts the algal symbiont to leave the coral host when temperatures become inhospitable. Disrupting this symbiotic relationship can ultimately lead to coral bleaching, or worse, massive coral die-offs.
 
