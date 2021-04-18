@@ -36,7 +36,7 @@ New College is a public liberal arts honors college, and my lab incorporates und
 Coral reefs are at risk to become the first ecosystem to collapse as a consequence of climate change. My research aims to understand how coral reef symbiosis is disrupted by anthropogenic stressors, and to explore the mechanisms of acclimation to a warming ocean.
 
 <p><img src="/assets/img/coral.jpg"></p>
-<p class="my-img-cap">Colony of _Orbicella faveolata_ (mountainous star) coral.</p>
+<p class="my-img-cap">Colony of <i>Orbicella faveolata</i> (mountainous star) coral.</p>
 
 Coral reefs are built by colonies of coral polyps, small marine invertebrates (cnidarians, like jellyfish and sea anemone). In a symbiotic relationship, corals (the host) provide Symbiodiniaceae (the symbiont; a photosynthetic algae) with a home and a supply of inorganic molecules, while the algae provide corals with nutrient byproducts from photosynthesis. Increases in ocean temperature, driven by climate change, prompts the algal symbiont to leave the coral host when temperatures become inhospitable. Disrupting this symbiotic relationship can ultimately lead to coral bleaching, or worse, massive coral die-offs.
 
@@ -69,7 +69,7 @@ Related publications:
 Host-microbe interactions are key to understanding the health of coral reef ecosystems. My lab is investigating the mechanisms behind the establishment of coral-algal symbiosis. Using experimental biology, we explore the transcriptomic response of the host to diverse symbionts at different developmental stages. We focus on _Orbicella faveolata_, a crucial reef-building coral that is susceptible to mass bleaching events. Our research shows that the coral host’s transcriptome can be affected in different ways based on: 1) the host’s developmental stage when exposed to the algal symbiont; and 2) the species of algal symbiont.
 
 <img src="/assets/img/jellyfish.jpg">
-<p class="my-img-cap">The upside-down jellyfish _Cassiopea xamachana_.</p>
+<p class="my-img-cap">The upside-down jellyfish <i>Cassiopea xamachana</i>.</p>
 
 My lab also uses the upside-down jellyfish _Cassiopea xamachana_ as a model organism to explore questions of host-microbe interactions. _Cassiopea xamachana_ is a cnidarian, like coral, and is also symbiotic with Symbiodiniaceae, but is much easier to grow in laboratory conditions compared with coral. This makes _Cassiopea xamachana_ an excellent model for undergraduate students to learn experimental biology and to design and conduct their own experiments.
 
