@@ -80,7 +80,7 @@ I use the [Transparency in Learning and Teaching (TILT)](https://tilthighered.co
 <p><img src="/assets/img/etsi.jpg"></p>
 <p class="my-img-cap">Graduation ceremony with the monks of Gaden Monastery in Mundgod, Karnataka, India (2015).</p>
 
-During my Postdoctoral Fellowship in the Department of Biology at <a href="https://www.emory.edu" target="_blank">Emory University</a>, I had the extraordinary opportunity to teach a summer course (Intro to Biology) with the <a href="https://tibet.emory.edu" target="_blank">Emory-Tibet Science Initiative (ETSI)</a>. ETSI was the formal integration of science education at Tibetan Buddhist monasteries and nunneries in India. It represented the most significant change in 600 years for the traditional Tibetan Buddhist monastic curriculum. I co-taught biology at Gaden Monastery in India.
+During my Postdoctoral Fellowship in the Department of Biology at <a href="https://www.emory.edu" target="_blank">Emory University</a>, I had the extraordinary opportunity to co-teach a summer course (Intro to Biology) with the <a href="https://tibet.emory.edu" target="_blank">Emory-Tibet Science Initiative (ETSI)</a>. ETSI was the formal integration of science education at Tibetan Buddhist monasteries and nunneries in India. It represented the most significant change in 600 years for the traditional Tibetan Buddhist monastic curriculum. I co-taught biology at Gaden Monastery in India.
 
 Stay tuned for a **forthcoming paper** in _Frontiers in Communication_ on how being an ETSI faculty member informed my teaching philosophy.
 
