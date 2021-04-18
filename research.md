@@ -70,6 +70,11 @@ Host-microbe interactions are key to understanding the health of coral reef ecos
 
 My lab also uses the upside-down jellyfish _Cassiopea xamachana_ as a model organism to explore questions of host-microbe interactions. _Cassiopea xamachana_ is a cnidarian, like coral, and is also symbiotic with Symbiodiniaceae, but is much easier to grow in laboratory conditions compared with coral. This makes _Cassiopea xamachana_ an excellent model for undergraduate students to learn experimental biology and to design and conduct their own experiments.
 
+Related publications:
+- Alterations in transcriptional and developmental regulation: Evolutionary implication of symbiosis in _Cassiopea xamachana_ (in prep)
+- O'Rourke, A., Ohdera, A., Sunagawa, S., **Diaz-Almeyda, E. M.**, DeSalvo, M. K., Coffroth, M. A., Voolstra, C. R., & Medina, M. (2017). [Gene expression of settled and metamorphosed _Orbicella faveolata_ during establishment of symbiosis (No. e3283v1)](https://peerj.com/preprints/3283/){:target="_blank"}. PeerJ Preprints.
+- Hartmann, A. C., Marhaver, K. L., Klueter, A., Lovci, M. T., Closek, C. J., **Diaz, E.**, Chamberland, V. F., Archer, F. I., Deheyn, D. D., Vermeij, M. J. A., & Medina, M. (2019). [Acquisition of obligate mutualist symbionts during the larval stage is not beneficial for a coral host](https://onlinelibrary.wiley.com/doi/abs/10.1111/mec.14967){:target="_blank"}. Molecular ecology, 28(1), 141-155.
+
 # <a id="agro"></a>Host-microbe interactions in agroecology
 
 My lab aims to understand host-microbe interactions that support a variety of sustainable agroecological practices. We are currently investigating the mechanisms underlying the antibiotic disease resistance in soil exposed to Milpa, an ancient agricultural polycrop from Mesoamerica. We are also assessing microbial biodiversity in urban food forests.
