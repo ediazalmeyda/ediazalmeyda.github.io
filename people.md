@@ -17,12 +17,11 @@ Assistant Professor of Biology and Environmental Studies
 New College of Florida
 
 **Lab Manager:**
-Cara Ruhnke
-New College of Florida (class of 2022)
+Cara Ruhnke (class of 2022)
 
 **Undergraduate Thesis Students:**
 - Ryan Counsman
-  - Thesis: Antibiotic properties of traditional asian medicines in the human gut microbe _Escherichia coli_
+  - Antibiotic properties of traditional asian medicines in the human gut microbe _Escherichia coli_
 - Marjorie Netwal
   - Effect of symbiosis on the development of the upside-down jellyfish _Cassiopea xamachana_
 - Marcela Prado-Zapata
@@ -31,7 +30,7 @@ New College of Florida (class of 2022)
   - Anthropogenic impacts on marine bacterial communities in sediment at popular touristic locations in the Florida Keys
 
 **Ph.D. Dissertation Committees:**
-- Natalia López-Figueroa, University of South Florida, St. Petersburg
+- [Natalia López-Figueroa](https://www.usf.edu/marine-science/education/prospective-students/student-vignettes/natalia-lopez-figueroa.aspx){:target="_blank"} (University of South Florida, St. Petersburg)
 
 **Undergraduate Research Assistants:**
 - Nora Flower
@@ -60,7 +59,7 @@ New College of Florida (class of 2022)
 
 # Past Advisees
 
-### 2015 - 2019: Postdoctoral Fellow, Department of Biology, Emory University
+### 2015 - 2018: Postdoctoral Fellow, Department of Biology, Emory University
 
 Graduate Research Advisees:
 - Joost Mansour, Penn State University (co-advised with Monica Medina, Penn State University)
