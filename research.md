@@ -49,6 +49,9 @@ Coral reefs are at risk to become the first ecosystem to collapse as a consequen
 
 Coral reefs are built by colonies of coral polyps, small marine invertebrates (cnidarians, like jellyfish and sea anemone). In a symbiotic relationship, corals (the host) provide Symbiodiniaceae (the symbiont; a photosynthetic algae) with a home and a supply of inorganic molecules, while the algae provide corals with nutrient byproducts from photosynthesis. Increases in ocean temperature, driven by climate change, prompts the algal symbiont to leave the coral host when temperatures become inhospitable. Disrupting this symbiotic relationship can ultimately lead to coral bleaching, or worse, massive coral die-offs.
 
+<img src="/assets/img/coral3.jpg">
+<p class="my-img-cap">Close-up view of coral polyps.</p>
+
 My lab uses experimental biology (host-symbiont physiology, genomics, and experimental evolution) and fieldwork approaches to investigate the mechanisms of thermotolerance in coral-algal symbiosis.
 
 Our broader goals are to understand how to mitigate stress and prevent bleaching events, and to help inform coral restoration efforts in the field.
