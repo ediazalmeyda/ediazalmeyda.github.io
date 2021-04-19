@@ -44,7 +44,7 @@ Learn [about my teaching](/teaching/).
 
 # Education
 
-<div class="my-flex">
+<div class="my-flex-edu">
   <div class="my-edu-logo"><img src="/assets/img/emory.jpg"></div>
   <div>
     <b>NIH-FIRST Postdoctoral Fellow</b>
@@ -54,7 +54,7 @@ Learn [about my teaching](/teaching/).
   </div>
 </div>
 
-<div class="my-flex">
+<div class="my-flex-edu">
   <div class="my-edu-logo"><img src="/assets/img/psu.jpg"></div>
   <div>
     <b>Ph.D. Biology</b>
@@ -64,7 +64,7 @@ Learn [about my teaching](/teaching/).
   </div>
 </div>
 
-<div class="my-flex">
+<div class="my-flex-edu">
   <div class="my-edu-logo"><img src="/assets/img/unam.jpg"></div>
   <div>
     <b>M.Sc. Marine Sciences and Limnology</b>
@@ -75,7 +75,7 @@ Learn [about my teaching](/teaching/).
   </div>
 </div>
 
-<div class="my-flex">
+<div class="my-flex-edu">
   <div class="my-edu-logo"><img src="/assets/img/unam.jpg"></div>
   <div>
     <b>B.S. Biology</b>
