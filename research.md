@@ -61,7 +61,7 @@ Our broader goals are to understand how to mitigate stress and prevent bleaching
 My lab explores the thermal limits of different species of Symbiodiniaceae dinoflagellates using physiological measurements in experimental settings. Symbiodiniaceae are physiologically diverse with variance in thermotolerance and thermosensitivity. In other words, thermotolerance is not a phylogenetically conserved trait. My lab is also investigating the microbial communities associated with Symbiodiniaceae and their possible roles in thermotolerance.
 
 <img src="/assets/img/bleaching.jpg">
-<p class="my-img-cap">Image source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Coral_Bleaching.jpg){:target="_blank"}.</p>
+<p class="my-img-cap">Image source: <a href="https://commons.wikimedia.org/wiki/File:Coral_Bleaching.jpg" target="_blank">Wikimedia Commons</a>.</p>
 
 Related publications:
 - Stability of microbial communities associated with thermotolerant _Symbiodinium_ in culture (in prep)
