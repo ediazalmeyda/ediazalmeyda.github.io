@@ -20,18 +20,18 @@ layout: default
 
 # Microbial ecology of mutualisms
 
-In my lab, we explore how mutualisms respond and adapt to anthropogenic stressors in marine and terrestrial ecosystems. Our aim is to mitigate threats to host-associated microbial biodiversity, an essential component to [the health of ecosystems](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2018.2448){:target="_blank"}.
+My lab explores how mutualisms respond and adapt to anthropogenic stressors in marine and terrestrial ecosystems. Our aim is to mitigate threats to host-associated microbial biodiversity, an essential component to [the health of ecosystems](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2018.2448){:target="_blank"}.
 
-We utilize experimental biology (host-symbiont physiology, genomics, and experimental evolution) and fieldwork approaches to study mutualisms in **coral reef ecosystems**, **agroecological systems** ([Milpa](https://en.wikipedia.org/wiki/Milpa){:target="_blank"}, an ancient agricultural method from Mesoamerica; urban food forests; and host-microbe interactions in agricultural pests), and **coupled human-environment systems** (coastlines; coastal rivers; managed ranches; archaeological sites; and sustainable landscape design).
+We utilize experimental biology (host-symbiont physiology, genomics, and experimental evolution) and fieldwork approaches to study mutualisms in **coral reef ecosystems**, **agroecological systems**, and **coupled human-environment systems**.
 
 <p><img src="/assets/img/diving.jpg"></p>
 <p class="my-img-cap">Dr. Díaz diving at the Mesoamerican Barrier Reef System near the UNAM field station in Puerto Morelos, Quintana Roo, México.</p>
 
-My lab also engages in interdisciplinary research with anthropologists, botanists, geographers, and community stakeholders to study how microbial biodiversity may assist in preserving archaeological sites.
+My lab also engages in interdisciplinary research with anthropologists, botanists, geographers, and community stakeholders to study how microbial biodiversity may assist in preserving archaeological sites and cultural heritage.
 
 New College is a public liberal arts honors college, and my lab incorporates undergraduates in all aspects of research, from hypothesis to publication.
 
-Learn more [about my research](/research/).
+Learn [about my lab's research](/research/).
 
 # Teaching
 
