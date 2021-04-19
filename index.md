@@ -20,7 +20,7 @@ layout: default
 
 # Microbial ecology of mutualisms
 
-My lab explores how mutualisms respond and adapt to anthropogenic stressors in marine and terrestrial ecosystems. Our aim is to mitigate threats to host-associated microbial biodiversity, an essential component to [the health of ecosystems](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2018.2448){:target="_blank"}.
+My lab explores how mutualisms respond and adapt to anthropogenic stressors in marine and terrestrial ecosystems. Our aim is to mitigate threats to host-associated microbial biodiversity, an essential aspect of [healthy ecosystems](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2018.2448){:target="_blank"}.
 
 We utilize experimental biology (host-symbiont physiology, genomics, and experimental evolution) and fieldwork approaches to study mutualisms in **coral reef ecosystems**, **agroecological systems**, and **coupled human-environment systems**.
 
