@@ -67,6 +67,12 @@ a:hover {
     align-items: center;
 }
 
+.my-flex-edu {
+    display: flex;
+    flex-flow: row;
+    align-content: flex-start;
+}
+
 /* Margins and padding */
 
 .my-pad-top {
