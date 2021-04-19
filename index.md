@@ -44,29 +44,45 @@ Learn [about my teaching](/teaching/).
 
 # Education
 
-<div class="my-img-left"><img src="/assets/img/emory.jpg"></div>
-**NIH-FIRST Postdoctoral Fellow**\
-Department of Biology\
-<a href="https://www.emory.edu" target="_blank">Emory University</a>\
-Advisor: [Nicole Gerardo](https://scholarblogs.emory.edu/gerardolab/){:target="_blank"}
+<div class="my-flex">
+  <div class="my-edu-logo"><img src="/assets/img/emory.jpg"></div>
+  <div>
+    **NIH-FIRST Postdoctoral Fellow**\
+    Department of Biology\
+    <a href="https://www.emory.edu" target="_blank">Emory University</a>\
+    Advisor: [Nicole Gerardo](https://scholarblogs.emory.edu/gerardolab/){:target="_blank"}
+  </div>
+</div>
 
-<div class="my-img-left"><img src="/assets/img/psu.jpg"></div>
-**Ph.D. Biology**\
-Department of Biology\
-<a href="https://www.psu.edu" target="_blank">Penn State University</a>\
-Advisor: [Monica Medina](https://www.huck.psu.edu/people/monica-medina){:target="_blank"}
+<div class="my-flex">
+  <div class="my-edu-logo"><img src="/assets/img/psu.jpg"></div>
+  <div>
+    **Ph.D. Biology**\
+    Department of Biology\
+    <a href="https://www.psu.edu" target="_blank">Penn State University</a>\
+    Advisor: [Monica Medina](https://www.huck.psu.edu/people/monica-medina){:target="_blank"}
+  </div>
+</div>
 
-<div class="my-img-left"><img src="/assets/img/unam.jpg"></div>
-**M.Sc. Marine Sciences and Limnology**\
-Instituto de Ciencias del Mar y Limnología (Institute of Marine Sciences and Limnology)\
-[Universidad Nacional Autónoma de México (National Autonomous University of Mexico)](https://www.unam.mx){:target="_blank"}\
-Puerto Morelos, Quintana Roo, México\
-Advisor: [Patricia Thomé-Ortíz](https://www.icmyl.unam.mx/puerto_morelos/mazatlan/en/node/26){:target="_blank"}
+<div class="my-flex">
+  <div class="my-edu-logo"><img src="/assets/img/unam.jpg"></div>
+  <div>
+    **M.Sc. Marine Sciences and Limnology**\
+    Instituto de Ciencias del Mar y Limnología (Institute of Marine Sciences and Limnology)\
+    [Universidad Nacional Autónoma de México (National Autonomous University of Mexico)](https://www.unam.mx){:target="_blank"}\
+    Puerto Morelos, Quintana Roo, México\
+    Advisor: [Patricia Thomé-Ortíz](https://www.icmyl.unam.mx/puerto_morelos/mazatlan/en/node/26){:target="_blank"}
+  </div>
+</div>
 
-<div class="my-img-left"><img src="/assets/img/unam.jpg"></div>
-**B.S. Biology**\
-Instituto de Ecología (Institute of Ecology)\
-Facultad de Ciencias (Faculty of Sciences)\
-[Universidad Nacional Autónoma de México (National Autonomous University of Mexico)](https://www.unam.mx){:target="_blank"}\
-Mexico City, México\
-Advisor: [Daniel Ignacio Piñero-Dalmau](http://web2.ecologia.unam.mx/perfiles/perfil.php?ID=1237853475640){:target="_blank"}
+<div class="my-flex">
+  <div class="my-edu-logo"><img src="/assets/img/unam.jpg"></div>
+  <div>
+    **B.S. Biology**\
+    Instituto de Ecología (Institute of Ecology)\
+    Facultad de Ciencias (Faculty of Sciences)\
+    [Universidad Nacional Autónoma de México (National Autonomous University of Mexico)](https://www.unam.mx){:target="_blank"}\
+    Mexico City, México\
+    Advisor: [Daniel Ignacio Piñero-Dalmau](http://web2.ecologia.unam.mx/perfiles/perfil.php?ID=1237853475640){:target="_blank"}
+  </div>
+</div>
