@@ -23,17 +23,17 @@ permalink: /research/
 As an Assistant Professor of Biology and Environmental Studies at [New College of Florida](https://www.ncf.edu){:target="_blank"}, my lab explores how mutualisms respond and adapt to anthropogenic stressors in marine and terrestrial ecosystems.
 
 Our aims include:
-1. Understanding threats to host-associated microbial biodiversity, an essential component to healthy ecosystems.
+1. Understanding threats to host-associated microbial biodiversity, an essential aspect of healthy ecosystems.
 2. Exploring how host-microbe interactions can adapt to anthropogenic stressors.
 3. Partnering with community stakeholders to support microbial health in land and water management.
 
-We utilize experimental biology (host-symbiont physiology, genomics, and experimental evolution) and fieldwork approaches to study mutualisms in **coral reef ecosystems**, **agroecological systems** ([Milpa](https://en.wikipedia.org/wiki/Milpa){:target="_blank"}, an ancient agricultural method from Mesoamerica; urban food forests; and host-microbe interactions in agricultural pests), and **coupled human-environment systems** (coastlines; coastal rivers; managed ranches; archaeological sites; and sustainable landscape design).
+We utilize experimental biology (host-symbiont physiology, genomics, and experimental evolution) and fieldwork approaches to study mutualisms in **coral reef ecosystems**, **agroecological systems** ([Milpa](https://en.wikipedia.org/wiki/Milpa){:target="_blank"}, an ancient agricultural method from Mesoamerica; urban food forests; and host-microbe interactions in agricultural pests), and **coupled human-environment systems** (coastlines; rivers; ranches; archaeological sites; and sustainable landscape design).
 
 New College is a public liberal arts honors college, and my lab incorporates undergraduates in all aspects of research, from hypothesis to publication. My lab also collaborates in interdisciplinary research with anthropologists, botanists, geographers, and community stakeholders.
 
 ### Grants and Fellowships
 
-My lab's current research at New College of Florida is generously funded by [The J. Stuart and Elizabeth Moore Charitable Foundation](https://www.ncf.edu/news/news/new-college-microbiome-project-gains-support/){:target="_blank"} and the [New College Faculty Development Fund](https://www.ncf.edu/alumni-and-friends/the-foundation/){:target="_blank"}.
+My lab's research at New College of Florida is generously funded by [The J. Stuart and Elizabeth Moore Charitable Foundation](https://www.ncf.edu/news/news/new-college-microbiome-project-gains-support/){:target="_blank"} and the [New College Faculty Development Fund](https://www.ncf.edu/alumni-and-friends/the-foundation/){:target="_blank"}.
 
 My postdoctoral research at Emory University was generously funded by [NIH-IRACDA](https://med.emory.edu/education/postdoctoral-training/first/index.html){:target="_blank"}.
 
@@ -43,8 +43,7 @@ My Ph.D. research at Penn State University and Masters research at Universidad N
 
 Coral reefs are at risk to become the first ecosystem to collapse as a consequence of climate change. My research aims to understand how coral reef symbiosis is disrupted by anthropogenic stressors, and to explore the mechanisms of acclimation to a warming ocean.
 
-<p><img src="/assets/img/coral.jpg"></p>
-<p class="my-img-cap">Colony of <i>Orbicella faveolata</i> (mountainous star) coral.</p>
+<p><img src="/assets/img/coral2.jpg"></p>
 
 Coral reefs are built by colonies of coral polyps, small marine invertebrates (cnidarians, like jellyfish and sea anemone). In a symbiotic relationship, corals (the host) provide Symbiodiniaceae (the symbiont; a photosynthetic algae) with a home and a supply of inorganic molecules, while the algae provide corals with nutrient byproducts from photosynthesis. Increases in ocean temperature, driven by climate change, prompts the algal symbiont to leave the coral host when temperatures become inhospitable. Disrupting this symbiotic relationship can ultimately lead to coral bleaching, or worse, massive coral die-offs.
 
@@ -76,10 +75,13 @@ Related publications:
 
 Host-microbe interactions are key to understanding the health of coral reef ecosystems. My lab is investigating the mechanisms behind the establishment of coral-algal symbiosis. Using experimental biology, we explore the transcriptomic response of the host to diverse symbionts at different developmental stages. We focus on _Orbicella faveolata_, a crucial reef-building coral that is susceptible to mass bleaching events. Our research shows that the coral host’s transcriptome can be affected in different ways based on: 1) the host’s developmental stage when exposed to the algal symbiont; and 2) the species of algal symbiont.
 
-<img src="/assets/img/jellyfish.jpg">
-<p class="my-img-cap">The upside-down jellyfish <i>Cassiopea xamachana</i>.</p>
+<p><img src="/assets/img/coral.jpg"></p>
+<p class="my-img-cap">Colony of <i>Orbicella faveolata</i> coral.</p>
 
 My lab also uses the upside-down jellyfish _Cassiopea xamachana_ as a model organism to explore questions of host-microbe interactions. _Cassiopea xamachana_ is a cnidarian, like coral, and is also symbiotic with Symbiodiniaceae, but is much easier to grow in laboratory conditions compared with coral. This makes _Cassiopea xamachana_ an excellent model for undergraduate students to learn experimental biology and to design and conduct their own experiments.
+
+<img src="/assets/img/jellyfish.jpg">
+<p class="my-img-cap">The upside-down jellyfish <i>Cassiopea xamachana</i>.</p>
 
 Related publications:
 - Alterations in transcriptional and developmental regulation: Evolutionary implication of symbiosis in _Cassiopea xamachana_ (in prep)
