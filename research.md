@@ -27,6 +27,8 @@ Our aims include:
 2. Exploring how host-microbe interactions can adapt to anthropogenic stressors.
 3. Partnering with community stakeholders to support microbial health in land and water management.
 
+<p><img src="/assets/img/caribe.jpg"></p>
+
 We utilize experimental biology (host-symbiont physiology, genomics, and experimental evolution) and fieldwork approaches to study mutualisms in **coral reef ecosystems**, **agroecological systems** ([Milpa](https://en.wikipedia.org/wiki/Milpa){:target="_blank"}, an ancient agricultural method from Mesoamerica; urban food forests; and host-microbe interactions in agricultural pests), and **coupled human-environment systems** (coastlines; rivers; ranches; archaeological sites; and sustainable landscape design).
 
 New College is a public liberal arts honors college, and my lab incorporates undergraduates in all aspects of research, from hypothesis to publication. My lab also collaborates in interdisciplinary research with anthropologists, botanists, geographers, and community stakeholders.
