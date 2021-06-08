@@ -4,34 +4,34 @@ permalink: /research/
 ---
 
 <div class="my-hero">
-  <h1>Microbial ecology of mutualisms</h1>
+  <h1>Mutualisms in marine and coastal ecosystems</h1>
   <p><img src="/assets/img/trca.jpg"></p>
   <p>Undergraduate researchers during fieldwork at the Triangle Ranch Conservation Area.</p>
 </div>
 
 ## Jump to:
 - [Research Overview](#overview)
-  - [Symbiosis in coral reef ecosystems](#coral)
-  - [Host-microbe interactions in agroecology](#agro)
+  - [Symbiosis in marine invertebrates (coral reefs, jellyfish, and sea anemone)](#coral)
   - [Microbial biodiversity of coupled human-environment systems](#env)
+  - [Host-microbe interactions in agroecology](#agro)
 - [Publications](#pub)
 - [Invited Talks](#talks)
 - [Outreach and Media](#media)
 
-# <a id="overview"></a>Research Overview: Microbial Ecology of Mutualisms
+# <a id="overview"></a>Research Overview: Mutualisms in marine and coastal ecosystems
 
-As an Assistant Professor of Biology and Environmental Studies at [New College of Florida](https://www.ncf.edu){:target="_blank"}, my lab explores how mutualisms respond and adapt to anthropogenic stressors in marine and terrestrial ecosystems.
+As an Assistant Professor of Biology and Environmental Studies at [New College of Florida](https://www.ncf.edu){:target="_blank"}, my lab explores how mutualisms respond and adapt to anthropogenic stressors in marine and coastal ecosystems.
 
 Our aims include:
 1. Understanding threats to host-associated microbial biodiversity, an essential aspect of healthy ecosystems.
 2. Exploring how host-microbe interactions can adapt to anthropogenic stressors.
-3. Partnering with community stakeholders to support microbial health in land and water management.
+3. Partnering with community stakeholders to support microbial health in water and coastal management.
 
 <p><img src="/assets/img/caribe.jpg"></p>
 
-We utilize experimental biology (host-symbiont physiology, genomics, and experimental evolution) and fieldwork approaches to study mutualisms in **coral reef ecosystems**, **agroecological systems** ([Milpa](https://en.wikipedia.org/wiki/Milpa){:target="_blank"}, an ancient agricultural method from Mesoamerica; urban food forests; and host-microbe interactions in agricultural pests), and **coupled human-environment systems** (coastlines; rivers; ranches; archaeological sites; and sustainable landscape design).
+We utilize experimental biology (host-symbiont physiology, genomics, and experimental evolution) and fieldwork approaches to study mutualisms in marine invertebrates (coral reefs, jellyfish, and sea anemone), coastal coupled human-environment systems (coastlines, rivers, coastal archaeological sites), and agroecological systems ([Milpa](https://en.wikipedia.org/wiki/Milpa){:target="_blank"}, an ancient agricultural method from Mesoamerica).
 
-New College is a public liberal arts honors college, and my lab incorporates undergraduates in all aspects of research, from hypothesis to publication. My lab also collaborates in interdisciplinary research with anthropologists, botanists, geographers, and community stakeholders.
+Undergraduate researchers are my junior colleagues in my research and teaching. We also collaborate in interdisciplinary research with anthropologists, botanists, geographers, and community stakeholders.
 
 ### Grants and Fellowships
 
