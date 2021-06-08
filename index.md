@@ -20,14 +20,14 @@ layout: default
 
 # Mutualisms in marine and coastal ecosystems
 
-My lab explores how mutualisms respond and adapt to anthropogenic stressors in marine and coastal ecosystems. Undergraduate researchers are my junior colleagues in my research and teaching. We utilize experimental biology (host-symbiont physiology, genomics, and experimental evolution) and fieldwork techniques. Our aim is to mitigate threats to host-associated microbial biodiversity, an essential aspect of [healthy ecosystems](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2018.2448){:target="_blank"}.
+My research explores how mutualisms respond and adapt to anthropogenic stressors in marine and coastal ecosystems. Undergraduate researchers are my junior colleagues in my research and teaching. We utilize experimental biology (host-symbiont physiology, genomics, and experimental evolution) and fieldwork techniques. Our aim is to mitigate threats to host-associated microbial biodiversity, an essential aspect of [healthy ecosystems](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2018.2448){:target="_blank"}.
 
 <p><img src="/assets/img/diving.jpg"></p>
 <p class="my-img-cap">Dr. Díaz diving at the Mesoamerican Barrier Reef System near the UNAM field station in Puerto Morelos, Quintana Roo, México.</p>
 
-My lab also engages in interdisciplinary research with anthropologists, botanists, geographers, and community stakeholders to study how microbial biodiversity may assist in preserving coastal archaeological sites and cultural heritage.
+I also engage in interdisciplinary research with anthropologists, botanists, geographers, and community stakeholders to study how microbial biodiversity may assist in preserving coastal archaeological sites and cultural heritage.
 
-Learn [about my lab's research](/research/).
+Learn [about our research](/research/).
 
 # Teaching
 
@@ -76,7 +76,6 @@ Learn [about my teaching](/teaching/).
   <div>
     <b>B.S. Biology</b><br>
     Instituto de Ecología (Institute of Ecology)<br>
-    Facultad de Ciencias (Faculty of Sciences)<br>
     <a href="https://www.unam.mx" target="_blank">Universidad Nacional Autónoma de México (National Autonomous University of Mexico)</a><br>
     Mexico City, México<br>
     Advisor: <a href="http://web2.ecologia.unam.mx/perfiles/perfil.php?ID=1237853475640" target="_blank">Daniel Ignacio Piñero-Dalmau</a>
