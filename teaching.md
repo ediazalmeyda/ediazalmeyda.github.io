@@ -18,13 +18,7 @@ permalink: /teaching/
 
 # <a id="philosophy"></a>Teaching Philosophy
 
-I teach <a href="https://en.wikipedia.org/wiki/Inquiry-based_learning" target="_blank">inquiry-based</a> courses and laboratories and utilize <a href="https://doi.org/10.1177/1053825917742165" target="_blank">local fieldwork</a> components to connect course content with local and global challenges. When students understand how a course is relevant beyond the classroom, it captures their attention and sparks curiosity for lifelong learning.
-
-I empower students through <a href="https://en.wikipedia.org/wiki/Active_learning" target="_blank">active learning</a> and nurture their personal interests so they feel motivated to develop and test their own hypotheses. My students directly participate in the scientific method and learn how to answer their own questions.
-
-I emphasize <a href="https://www.aacu.org/value-rubrics" target="_blank">ethical engagement</a> and teamwork with collaborative group activities and projects. Through <a href="https://en.wikipedia.org/wiki/Problem-based_learning" target="_blank">problem-based learning</a> components, students develop scientific, professional, and interpersonal skills and learn to solve real-world environmental challenges.
-
-I use the [Transparency in Learning and Teaching (TILT)](https://tilthighered.com){:target="_blank"} approach to advance equitable teaching and learning practices, and reduce systemic inequities in higher education.
+I use evidence-based pedagogies to foster critical thinking, collaboration, ethical engagement, and inclusivity. Lab and [field experiences](https://doi.org/10.1177/1053825917742165){:target="_blank"} are central to my approach of directly engaging students in the scientific method. I use [Transparency in Learning and Teaching (TILT)](https://tilthighered.com){:target="_blank"} to enhance equitable pedagogies and reduce systemic inequities in my classes. I align my teaching with the main elements of the [Vision and Change report (2011)](https://visionandchange.org/resources/){:target="_blank"} from AAAS by developing student-centered undergraduate biology courses. I use the [VALUE Rubrics](https://www.aacu.org/value-rubrics){:target="_blank"} from the AAC&U to create spaces for ethical engagement in my class discussions. I apply the [Course-Based Undergraduate Research Experience (CURE)](https://www.lifescied.org/doi/full/10.1187/cbe.14-01-0004){:target="_blank"} approach to teach students how to do original research and take part in larger, multi-student projects. I emphasize [mindsets](https://en.wikipedia.org/wiki/Mindset){:target="_blank"} for growth, sense of belonging, and connection with purpose by using Writing-To-Learn (WTL) activities to integrate class content with students’ reflections. I use place- and community-based pedagogies to open spaces for individual experiences and culture in education.
 
 # <a id="experience"></a>Teaching Experience
 
