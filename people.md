@@ -21,7 +21,7 @@ Cara Ruhnke (class of 2022)
 
 **Undergraduate Thesis Students:**
 - Ryan Counsman
-  - Antibiotic properties of traditional asian medicines in the human gut microbe _Escherichia coli_
+  - Antibiotic properties of traditional Asian medicines in the human gut microbe _Escherichia coli_
 - Marjorie Netwal
   - Effect of symbiosis on the development of the upside-down jellyfish _Cassiopea xamachana_
 - Marcela Prado-Zapata
