@@ -5,58 +5,49 @@ permalink: /research/
 
 <div class="my-hero">
   <h1>Mutualisms in marine and coastal ecosystems</h1>
-  <p><img src="/assets/img/trca.jpg"></p>
-  <p>Undergraduate researchers during fieldwork at the Triangle Ranch Conservation Area.</p>
+  <p><img src="/assets/img/caribe.jpg"></p>
 </div>
 
 ## Jump to:
 - [Research Overview](#overview)
   - [Symbiosis in marine invertebrates (coral reefs, jellyfish, and sea anemone)](#coral)
-  - [Microbial biodiversity of coupled human-environment systems](#env)
-  - [Host-microbe interactions in agroecology](#agro)
+  - [Coastal microbial biodiversity in coupled human-environment systems](#env)
+  - [Longitudinal assessments of water quality and microbial biodiversity in coastal rivers and wetlands](#river)
 - [Publications](#pub)
 - [Invited Talks](#talks)
 - [Outreach and Media](#media)
 
 # <a id="overview"></a>Research Overview: Mutualisms in marine and coastal ecosystems
 
-As an Assistant Professor of Biology and Environmental Studies at [New College of Florida](https://www.ncf.edu){:target="_blank"}, my lab explores how mutualisms respond and adapt to anthropogenic stressors in marine and coastal ecosystems.
-
-Our aims include:
-1. Understanding threats to host-associated microbial biodiversity, an essential aspect of healthy ecosystems.
-2. Exploring how host-microbe interactions can adapt to anthropogenic stressors.
-3. Partnering with community stakeholders to support microbial health in water and coastal management.
-
-<p><img src="/assets/img/caribe.jpg"></p>
-
-We utilize experimental biology (host-symbiont physiology, genomics, and experimental evolution) and fieldwork approaches to study mutualisms in marine invertebrates (coral reefs, jellyfish, and sea anemone), coastal coupled human-environment systems (coastlines, rivers, coastal archaeological sites), and agroecological systems ([Milpa](https://en.wikipedia.org/wiki/Milpa){:target="_blank"}, an ancient agricultural method from Mesoamerica).
-
-Undergraduate researchers are my junior colleagues in my research and teaching. We also collaborate in interdisciplinary research with anthropologists, botanists, geographers, and community stakeholders.
+My lab explores how mutualisms respond and adapt to anthropogenic stressors in marine and coastal ecosystems. Undergraduates are my junior colleagues in my research and teaching. We utilize experimental biology (host-symbiont physiology, genomics, and experimental evolution) and fieldwork techniques. Our primary research areas include:
+1. Symbiosis in marine invertebrates (coral reefs, jellyfish, and sea anemone).
+2. Coastal microbial biodiversity in coupled human-environment systems.
+3. Longitudinal assessments of water quality and microbial biodiversity in coastal rivers and wetlands.
 
 ### Grants and Fellowships
 
-My lab's research at New College of Florida is generously funded by [The J. Stuart and Elizabeth Moore Charitable Foundation](https://www.ncf.edu/news/news/new-college-microbiome-project-gains-support/){:target="_blank"} and the [New College Faculty Development Fund](https://www.ncf.edu/alumni-and-friends/the-foundation/){:target="_blank"}.
+My lab's research at New College of Florida is generously funded by [The J. Stuart and Elizabeth Moore Charitable Foundation](https://www.ncf.edu/news/news/new-college-microbiome-project-gains-support/){:target="_blank"}, the [New College Student Research and Travel Grants](https://www.ncf.edu/alumni-and-friends/get-involved/connect-with-students/student-research-and-travel-grants/){:target="_blank"}, and the [New College Faculty Development Fund](https://www.ncf.edu/alumni-and-friends/the-foundation/){:target="_blank"}.
 
 My postdoctoral research at Emory University was generously funded by [NIH-IRACDA](https://med.emory.edu/education/postdoctoral-training/first/index.html){:target="_blank"}.
 
 My Ph.D. research at Penn State University and Masters research at Universidad Nacional Autónoma de México (National Autonomous University of Mexico) was generously funded by [CONACYT](https://en.wikipedia.org/wiki/Consejo_Nacional_de_Ciencia_y_Tecnolog%C3%ADa_\(Mexico\)){:target="_blank"} (Consejo Nacional de Ciencia y Tecnología / National Council of Science and Technology in México).
 
-# <a id="coral"></a>Symbiosis in coral reef ecosystems
+# <a id="coral"></a>Symbiosis in marine invertebrates (coral reefs, jellyfish, and sea anemone)
 
-Coral reefs are at risk to become the first ecosystem to collapse as a consequence of climate change. My research aims to understand how coral reef symbiosis is disrupted by anthropogenic stressors, and to explore the mechanisms of acclimation to a warming ocean.
+My lab studies symbiosis in marine invertebrates and how they respond and adapt to anthropogenic stressors. As a model organism in the lab, we use the upside-down jellyfish Cassiopea xamachana (the host) and Symbiodiniaceae (the symbiont; a photosynthetic algae). The jellyfish perfect for undergraduate thesis research compared with corals because the jellyfish are easier and faster to grow in the lab.
 
 <p><img src="/assets/img/coral2.jpg"></p>
 
-Coral reefs are built by colonies of coral polyps, small marine invertebrates (cnidarians, like jellyfish and sea anemone). In a symbiotic relationship, corals (the host) provide Symbiodiniaceae (the symbiont; a photosynthetic algae) with a home and a supply of inorganic molecules, while the algae provide corals with nutrient byproducts from photosynthesis. Increases in ocean temperature, driven by climate change, prompts the algal symbiont to leave the coral host when temperatures become inhospitable. Disrupting this symbiotic relationship can ultimately lead to coral bleaching, or worse, massive coral die-offs.
+Coral reefs are at risk to become the first ecosystem to collapse as a consequence of climate change. Our research aims to understand how coral reef symbiosis is disrupted by anthropogenic stressors, and to explore the mechanisms of acclimation to a warming ocean.
 
 <img src="/assets/img/coral3.jpg">
 <p class="my-img-cap">Close-up view of coral polyps.</p>
 
-My lab uses experimental biology (host-symbiont physiology, genomics, and experimental evolution) and fieldwork approaches to investigate the mechanisms of thermotolerance in coral-algal symbiosis.
+Coral reefs are built by colonies of coral polyps, small marine invertebrates (cnidarians, like jellyfish and sea anemone). In a symbiotic relationship, corals (the host) provide Symbiodiniaceae (the symbiont; a photosynthetic algae) with a home and a supply of inorganic molecules, while the algae provide corals with nutrient byproducts from photosynthesis. Increases in ocean temperature, driven by climate change, prompts the algal symbiont to leave the coral host when temperatures become inhospitable. Disrupting this symbiotic relationship can ultimately lead to coral bleaching, or worse, massive coral die-offs.
 
-Our broader goals are to understand how to mitigate stress and prevent bleaching events, and to help inform coral restoration efforts in the field.
+We use experimental biology (host-symbiont physiology, genomics, and experimental evolution) and fieldwork approaches to investigate the mechanisms of thermotolerance in coral-algal symbiosis. Our broader aims include understanding how to mitigate stress and prevent bleaching events, and informing coral restoration efforts in the field.
 
-### Thermotolerance of Symbiodiniaceae
+### Project 1a: Thermotolerance of Symbiodiniaceae
 
 My lab explores the thermal limits of different species of Symbiodiniaceae dinoflagellates using physiological measurements in experimental settings. Symbiodiniaceae are physiologically diverse with variance in thermotolerance and thermosensitivity. In other words, thermotolerance is not a phylogenetically conserved trait. My lab is also investigating the microbial communities associated with Symbiodiniaceae and their possible roles in thermotolerance.
 
@@ -69,7 +60,7 @@ Related publications:
 - **Díaz-Almeyda, E. M.**, Prada, C., Ohdera, A. H., Moran, H., Civitello, D. J., Iglesias-Prieto, R., Carlo, T. A., LaJeunesse, T. C., & Medina, M. (2017). [Intraspecific and interspecific variation in thermotolerance and photoacclimation in _Symbiodinium_ dinoflagellates](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2017.1767){:target="_blank"}. Proceedings of the Royal Society B: Biological Sciences, 284(1868), 20171767.
 - **Díaz-Almeyda, E.**, Thomé, P. E., El Hafidi, M., & Iglesias-Prieto, R. (2011). [Differential stability of photosynthetic membranes and fatty acid composition at elevated temperature in _Symbiodinium_](https://link.springer.com/article/10.1007%2Fs00338-010-0691-5){:target="_blank"}. Coral Reefs, 30(1), 217-225.
 
-### Symbiodiniaceae genomics
+### Project 1b: Symbiodiniaceae genomics
 
 My lab explores the mechanisms driving temperature acclimation and adaptation in coral-algal symbiosis. To answer these questions, we challenge _Symbiodinium_ to high water temperatures and analyze their transcriptomic responses at different time points. For _Symbiodinium microadriaticum_, our results show that short-term and long-term stress can trigger different responses. Short-term stress appears to be survivable, while long-term stress is detrimental to the symbiosis and risks permanent damage or death.
 
@@ -79,7 +70,7 @@ Related publications:
 - Temporal transcriptomic response of _Symbiodinium microadriaticum_ (CassKB8) under high temperature acclimation (in prep)
 - Sorek, M., **Díaz-Almeyda, E. M.**, Medina, M., & Levy, O. (2014). [Circadian clocks in symbiotic corals: the duet between _Symbiodinium_ algae and their coral host](https://www.sciencedirect.com/science/article/abs/pii/S187477871400004X){:target="_blank"}. Marine genomics, 14, 47-57.
 
-### Genomics of host-microbe interactions in coral reef ecosystems
+### Project 1c: Genomics of host-microbe interactions in coral reef ecosystems
 
 Host-microbe interactions are key to understanding the health of coral reef ecosystems. My lab is investigating the mechanisms behind the establishment of coral-algal symbiosis. Using experimental biology, we explore the transcriptomic response of the host to diverse symbionts at different developmental stages. We focus on _Orbicella faveolata_, a crucial reef-building coral that is susceptible to mass bleaching events. Our research shows that the coral host’s transcriptome can be affected in different ways based on: 1) the host’s developmental stage when exposed to the algal symbiont; and 2) the species of algal symbiont.
 
@@ -96,7 +87,16 @@ Related publications:
 - Hartmann, A. C., Marhaver, K. L., Klueter, A., Lovci, M. T., Closek, C. J., **Diaz, E.**, Chamberland, V. F., Archer, F. I., Deheyn, D. D., Vermeij, M. J. A., & Medina, M. (2019). [Acquisition of obligate mutualist symbionts during the larval stage is not beneficial for a coral host](https://onlinelibrary.wiley.com/doi/abs/10.1111/mec.14967){:target="_blank"}. Molecular ecology, 28(1), 141-155.
 - O'Rourke, A., Ohdera, A., Sunagawa, S., **Diaz-Almeyda, E. M.**, DeSalvo, M. K., Coffroth, M. A., Voolstra, C. R., & Medina, M. (2017). [Gene expression of settled and metamorphosed _Orbicella faveolata_ during establishment of symbiosis (No. e3283v1)](https://peerj.com/preprints/3283/){:target="_blank"}. PeerJ Preprints.
 
-# <a id="agro"></a>Host-microbe interactions in agroecology
+# <a id="env"></a>Microbial biodiversity of coupled human-environment systems
+
+My lab is engaged in longitudinal microbial biodiversity assessments in coupled human-environment systems, including: the [Triangle Ranch Conservation Area](https://www.conservationfoundation.com/triangle-ranch-conservation-area/?back=Properties){:target="_blank"} that surrounds the Myakka River; the sustainable landscape design at the [Florida House Institute](http://floridahouseinstitute.org){:target="_blank"}; beaches in the Florida Keys. Cohorts of undergraduate researchers in my lab are documenting microbial diversity and generating long-term datasets to support community stakeholders and decision-makers involved in water and land management.
+
+<img src="/assets/img/trca.jpg">
+<p class="my-img-cap">Undergraduate researchers during fieldwork at the Triangle Ranch Conservation Area.</p>
+
+My lab is also collaborating with anthropologists, botanists, geographers, and community stakeholders to document changes in biodiversity in fragile ecosystems and archaeological sites that are projected to be affected by climate change and rising sea level in the near-term. My lab is documenting microbes associated with a coastal architecture called [tabby](https://en.wikipedia.org/wiki/Tabby_concrete){:target="_blank"} (an 18th to early 20th century architectural material made from oyster shells) at [De Soto National Memorial](https://www.nps.gov/deso/index.htm){:target="_blank"}. Our goal is to inform management practices and contribute to the conservation of coastal heritage.
+
+# <a id="river"></a>Host-microbe interactions in agroecology
 
 My lab aims to understand host-microbe interactions that support a variety of sustainable agroecological practices. We are currently investigating the mechanisms underlying the antibiotic disease resistance in soil exposed to Milpa, an ancient agricultural polycrop from Mesoamerica. We are also assessing microbial biodiversity in urban food forests.
 
@@ -114,15 +114,6 @@ Related publications:
 - Effect of presence/absence of obligate symbionts in Kudzu bugs (_Megacopta cribaria_) (in prep)
 - Evolving _Burkholderia_ symbionts in the presence and absence of their insect host (in prep)
 - Maravillas, K. E., **Diaz-Almeyda, E.**, & Gerardo, N. (2019). [Bacterial Growth in Milpa Polyculture and Monoculture Soils \[Emory University\]](https://www.jsr.org/index.php/path/article/view/691){:target="_blank"}. Journal of Student Research.
-
-# <a id="env"></a>Microbial biodiversity of coupled human-environment systems
-
-My lab is engaged in longitudinal microbial biodiversity assessments in coupled human-environment systems, including: the [Triangle Ranch Conservation Area](https://www.conservationfoundation.com/triangle-ranch-conservation-area/?back=Properties){:target="_blank"} that surrounds the Myakka River; the sustainable landscape design at the [Florida House Institute](http://floridahouseinstitute.org){:target="_blank"}; beaches in the Florida Keys. Cohorts of undergraduate researchers in my lab are documenting microbial diversity and generating long-term datasets to support community stakeholders and decision-makers involved in water and land management.
-
-<img src="/assets/img/trca.jpg">
-<p class="my-img-cap">Undergraduate researchers during fieldwork at the Triangle Ranch Conservation Area.</p>
-
-My lab is also collaborating with anthropologists, botanists, geographers, and community stakeholders to document changes in biodiversity in fragile ecosystems and archaeological sites that are projected to be affected by climate change and rising sea level in the near-term. My lab is documenting microbes associated with a coastal architecture called [tabby](https://en.wikipedia.org/wiki/Tabby_concrete){:target="_blank"} (an 18th to early 20th century architectural material made from oyster shells) at [De Soto National Memorial](https://www.nps.gov/deso/index.htm){:target="_blank"}. Our goal is to inform management practices and contribute to the conservation of coastal heritage.
 
 # <a id="pub"></a>Publications
 
