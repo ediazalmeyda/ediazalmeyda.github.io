@@ -23,14 +23,14 @@ layout: default
 My lab explores how mutualisms respond and adapt to anthropogenic stressors in marine and coastal ecosystems. Undergraduates are my junior colleagues in my research and teaching. We utilize experimental biology (host-symbiont physiology, genomics, and experimental evolution) and fieldwork techniques. Our primary research areas include:
 1. Symbiosis in marine invertebrates (coral reefs, jellyfish, and sea anemone).
 2. Coastal microbial biodiversity in coupled human-environment systems.
-3. Host-microbe interactions in agroecology (Milpa, an ancient agricultural method from Mesoamerica).
+3. Longitudinal assessments of water quality and microbial biodiversity in coastal rivers and wetlands.
 
 <p><img src="/assets/img/diving.jpg"></p>
 <p class="my-img-cap">Dr. Díaz diving at the Mesoamerican Barrier Reef System near the UNAM field station in Puerto Morelos, Quintana Roo, México.</p>
 
 We also engage in interdisciplinary projects with anthropologists, botanists, geographers, and community stakeholders. Our projects include:
-1. Longitudinal assessments of water quality and microbial biodiversity in coastal rivers and wetlands.
-2. Microbial biodiversity in the preservation of coastal archaeological sites and cultural heritage.
+1. Microbial biodiversity in the preservation of coastal archaeological sites and cultural heritage.
+2. Host-microbe interactions in agroecology (Milpa, an ancient agricultural method from Mesoamerica).
 
 Our broader aim is to mitigate threats to host-associated microbial biodiversity, an essential aspect of [healthy ecosystems](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2018.2448){:target="_blank"}.
 
