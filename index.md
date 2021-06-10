@@ -22,7 +22,7 @@ layout: default
 
 My lab explores how mutualisms respond and adapt to anthropogenic stressors in marine and coastal ecosystems. Undergraduates are my junior colleagues in my research and teaching. We utilize experimental biology (host-symbiont physiology, genomics, and experimental evolution) and fieldwork approaches to study:
 1. Symbiosis in marine invertebrates (coral reefs, jellyfish, and sea anemone).
-2. Coastal microbial biodiversity in coupled human-environment systems.
+2. Coastal microbial biodiversity in coupled human-environment systems (beaches, reefs, coastal landscape design).
 3. Longitudinal assessments of water quality and microbial biodiversity in coastal rivers and wetlands.
 
 <p><img src="/assets/img/diving.jpg"></p>
