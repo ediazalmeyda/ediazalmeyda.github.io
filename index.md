@@ -28,9 +28,9 @@ My lab explores how mutualisms respond and adapt to anthropogenic stressors in m
 <p><img src="/assets/img/diving.jpg"></p>
 <p class="my-img-cap">Dr. Díaz diving at the Mesoamerican Barrier Reef System near the UNAM field station in Puerto Morelos, Quintana Roo, México.</p>
 
-We also engage in interdisciplinary projects with anthropologists, botanists, geographers, and community stakeholders. Our projects include:
-1. Microbial biodiversity in the preservation of coastal archaeological sites and cultural heritage.
-2. Host-microbe interactions in agroecology (Milpa, an ancient agricultural method from Mesoamerica).
+We also engage in interdisciplinary projects with anthropologists, botanists, geographers, and community stakeholders to study:
+1. The role of microbial biodiversity in preserving coastal archaeological sites and cultural heritage.
+2. Host-microbe interactions in agroecology (Milpa, an ancient agricultural method from Mesoamerica, and food forests).
 
 Our broader aim is to mitigate threats to host-associated microbial biodiversity, an essential aspect of [healthy ecosystems](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2018.2448){:target="_blank"}.
 
