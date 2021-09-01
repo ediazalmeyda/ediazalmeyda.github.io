@@ -18,7 +18,7 @@ permalink: /research/
 - [Invited Talks](#talks)
 - [Outreach and Media](#media)
 
-# <a id="overview"></a>Research Overview: Mutualisms in marine and coastal ecosystems
+# <a id="overview"></a>Research Overview
 
 I am a microbial ecologist with research interests at the nexus of symbiosis, climate change, and Indigenous and sustainable practices. I study how host-associated microbiota are affected by climate change, and the relationships between microbial diversity and land/water management. My projects are embedded in frameworks of community- and place-based research to advance social equity by including local stakeholders, particularly in Indigenous and sustainable managers.
 
