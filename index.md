@@ -24,7 +24,7 @@ I am a microbial ecologist with research interests at the nexus of symbiosis, cl
 
 Anthropogenic stressors threaten host-associated microbiota, presenting critical risks to the interdependent health of hosts, microbes, and ecosystems. I use fieldwork and experimental biology (host-symbiont physiology, genomics, and experimental evolution) to understand how microbial and ecosystem health are connected in sustainable management practices and in a changing climate.
 
-Learn [about our research](/research/).
+Learn [about my research](/research/).
 
 <p><img src="/assets/img/diving.jpg"></p>
 <p class="my-img-cap">Dr. Díaz diving at the Mesoamerican Barrier Reef System near the UNAM field station in Puerto Morelos, Quintana Roo, México.</p>
