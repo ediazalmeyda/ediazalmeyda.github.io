@@ -18,36 +18,16 @@ layout: default
   </div>
 </div>
 
-# Mutualisms in marine and coastal ecosystems
+# Microbial ecology of symbiosis, climate change, and Indigenous and sustainable practices
 
-My lab explores how mutualisms respond and adapt to anthropogenic stressors in marine and coastal ecosystems. Undergraduates are my junior colleagues in my research and teaching. We utilize experimental biology (host-symbiont physiology, genomics, and experimental evolution) and fieldwork approaches to study:
-1. Symbiosis in marine invertebrates (coral reefs, jellyfish, and sea anemone).
-2. Coastal microbial biodiversity in coupled human-environment systems (beaches, reefs, coastal landscape design).
-3. Longitudinal assessments of water quality and microbial biodiversity in coastal rivers and wetlands.
+I am a microbial ecologist with research interests at the nexus of symbiosis, climate change, and Indigenous and sustainable practices. I study how host-associated microbiota are affected by climate change, and the relationships between microbial diversity and land/water management. My projects are embedded in frameworks of community- and place-based research to advance social equity by including local stakeholders, particularly in Indigenous and sustainable managers.
 
-<p><img src="/assets/img/diving.jpg"></p>
-<p class="my-img-cap">Dr. Díaz diving at the Mesoamerican Barrier Reef System near the UNAM field station in Puerto Morelos, Quintana Roo, México.</p>
-
-We also engage in interdisciplinary projects with anthropologists, botanists, geographers, and community stakeholders to study:
-1. The role of microbial biodiversity in preserving coastal archaeological sites and cultural heritage.
-2. Host-microbe interactions in agroecology (Milpa, an ancient agricultural method from Mesoamerica, and food forests).
-
-Our broader aim is to mitigate threats to host-associated microbial biodiversity, an essential aspect of [healthy ecosystems](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2018.2448){:target="_blank"}.
-
-I advise undergraduate research in my classes and labs, in specialized seminars and independent study programs, and in students’ honors theses. I guide my students to discover their own interests, generate novel questions and hypotheses, write internal grants, collect and analyze data, and communicate and defend their conclusions to their thesis committee.
+Anthropogenic stressors threaten host-associated microbiota, presenting critical risks to the interdependent health of hosts, microbes, and ecosystems. I use fieldwork and experimental biology (host-symbiont physiology, genomics, and experimental evolution) to understand how microbial and ecosystem health are connected in sustainable management practices and in a changing climate.
 
 Learn [about our research](/research/).
 
-# Teaching
-
-<p><img src="/assets/img/ncf.jpg"></p>
-<p class="my-img-cap">New College of Florida campus along Sarasota Bay (photo by Chip Litherland).</p>
-
-I use evidence-based pedagogies to foster critical thinking, collaboration, ethical engagement, and inclusivity. Lab and [field experiences](https://doi.org/10.1177/1053825917742165){:target="_blank"} are central to my approach of directly engaging students in the scientific method. I develop student-centered undergraduate biology courses by aligning my teaching with the main elements of the [Vision and Change report (2011)](https://visionandchange.org/resources/){:target="_blank"} from AAAS. I apply the [Course-Based Undergraduate Research Experience (CURE)](https://www.lifescied.org/doi/full/10.1187/cbe.14-01-0004){:target="_blank"} approach to teach students how to do original research and take part in larger, multi-student projects.
-
-I use [Transparency in Learning and Teaching (TILT)](https://tilthighered.com){:target="_blank"} to enhance equitable pedagogies and reduce systemic inequities in my classes. Using the [VALUE Rubrics](https://www.aacu.org/value-rubrics){:target="_blank"} from the AAC&U, I create spaces in my class discussions for ethical engagement. I emphasize [mindsets](https://en.wikipedia.org/wiki/Mindset){:target="_blank"} for growth, sense of belonging, and connection with purpose by using [Writing-To-Learn (WTL)](https://wac.colostate.edu/resources/wac/intro/wtl/){:target="_blank"} activities to integrate class content with students’ reflections. I use [place-based](https://en.wikipedia.org/wiki/Place-based_education){:target="_blank"} and [community-based](https://www.colorado.edu/cuengage/about-us/what-community-based-learning){:target="_blank"} pedagogies to open spaces for individual experiences and culture in education.
-
-Learn [about my teaching](/teaching/) philosophy, experience, and diversity and inclusion resources.
+<p><img src="/assets/img/diving.jpg"></p>
+<p class="my-img-cap">Dr. Díaz diving at the Mesoamerican Barrier Reef System near the UNAM field station in Puerto Morelos, Quintana Roo, México.</p>
 
 # Education
 
