@@ -4,25 +4,25 @@ permalink: /research/
 ---
 
 <div class="my-hero">
-  <h1>Mutualisms in marine and coastal ecosystems</h1>
+  <h1>Microbial ecology of symbiosis, climate change, and Indigenous and sustainable practices</h1>
   <p><img src="/assets/img/caribe.jpg"></p>
 </div>
 
 ## Jump to:
 - [Research Overview](#overview)
+  - [Indigenous and sustainable agroecological practices](#milpa)
   - [Symbiosis in marine invertebrates (coral reefs, jellyfish, and sea anemone)](#coral)
-  - [Coastal microbial biodiversity in coupled human-environment systems](#env)
-  - [Longitudinal assessments of water quality and microbial biodiversity in coastal rivers and wetlands](#river)
+  - [Sustainable land/water management and coastal microbial diversity](#coastal)
+  - [Rising seas impact coastal microbial diversity](#seas)
 - [Publications](#pub)
 - [Invited Talks](#talks)
 - [Outreach and Media](#media)
 
 # <a id="overview"></a>Research Overview: Mutualisms in marine and coastal ecosystems
 
-My lab explores how mutualisms respond and adapt to anthropogenic stressors in marine and coastal ecosystems. Undergraduates are my junior colleagues in my research and teaching. We utilize experimental biology (host-symbiont physiology, genomics, and experimental evolution) and fieldwork techniques. Our primary research areas include:
-1. Symbiosis in marine invertebrates (coral reefs, jellyfish, and sea anemone).
-2. Coastal microbial biodiversity in coupled human-environment systems.
-3. Longitudinal assessments of water quality and microbial biodiversity in coastal rivers and wetlands.
+I am a microbial ecologist with research interests at the nexus of symbiosis, climate change, and Indigenous and sustainable practices. I study how host-associated microbiota are affected by climate change, and the relationships between microbial diversity and land/water management. My projects are embedded in frameworks of community- and place-based research to advance social equity by including local stakeholders, particularly in Indigenous and sustainable managers.
+
+Anthropogenic stressors threaten host-associated microbiota, presenting critical risks to the interdependent health of hosts, microbes, and ecosystems. I use fieldwork and experimental biology (host-symbiont physiology, genomics, and experimental evolution) to understand how microbial and ecosystem health are connected in sustainable management practices and in a changing climate.
 
 ### Grants and Fellowships
 
@@ -31,6 +31,16 @@ My lab's research at New College of Florida is generously funded by [The J. Stua
 My postdoctoral research at Emory University was generously funded by [NIH-IRACDA](https://med.emory.edu/education/postdoctoral-training/first/index.html){:target="_blank"}.
 
 My Ph.D. research at Penn State University and Masters research at Universidad Nacional Autónoma de México (National Autonomous University of Mexico) was generously funded by [CONACYT](https://en.wikipedia.org/wiki/Consejo_Nacional_de_Ciencia_y_Tecnolog%C3%ADa_\(Mexico\)){:target="_blank"} (Consejo Nacional de Ciencia y Tecnología / National Council of Science and Technology in México).
+
+# <a id="milpa"></a>Indigenous and sustainable agroecological practices
+
+Milpa is a millennia-old agricultural polycrop system from Mesoamerica that continues to be widely used in México. Milpa is known to support sustainably large crop yields without pesticides or fertilizers, even in nutrient-poor soil, yet little is known about the underlying mechanisms of these benefits. I studied the health of farm soil exposed to Milpa polycrops and monocrops and discovered that the polycrop configuration significantly inhibited the growth of two bacterial strains in soil: a Burkholderia strain symbiotic with Anasa tristis (the squash bug, an agricultural pest) and a plant pathogenic Serratia strain that is the primary causal agent of cucurbit yellow vine disease (CYVD). This research begins to explore the unknown mechanisms underlying the anti-microbial properties of Milpa. To better understand the impacts of inhibited microbes as observed in Milpa soil, I used transcriptomics in a controlled experiment to artificially remove obligate symbionts (Candidatus Ishikawaella capsulata) and observed detrimental effects to the host’s (Megacopta cribraria) development pathways and immune system. In an ongoing experimental evolution experiment, I am discovering that mode of transmission of the symbiont affects fitness of the symbiont (Burkholderia) and its host (Anasa tristis), a potential path to disrupting host-microbe relationships in agricultural pests without using pesticides.
+
+Related publications:
+- Effect of diet on symbiont density within an invasive agricultural pest (in prep)
+- Effect of presence/absence of obligate symbionts in Kudzu bugs (_Megacopta cribaria_) (in prep)
+- Evolving _Burkholderia_ symbionts in the presence and absence of their insect host (in prep)
+- Maravillas, K. E., **Diaz-Almeyda, E.**, & Gerardo, N. (2019). [Bacterial Growth in Milpa Polyculture and Monoculture Soils \[Emory University\]](https://www.jsr.org/index.php/path/article/view/691){:target="_blank"}. Journal of Student Research.
 
 # <a id="coral"></a>Symbiosis in marine invertebrates (coral reefs, jellyfish, and sea anemone)
 
@@ -87,33 +97,16 @@ Related publications:
 - Hartmann, A. C., Marhaver, K. L., Klueter, A., Lovci, M. T., Closek, C. J., **Diaz, E.**, Chamberland, V. F., Archer, F. I., Deheyn, D. D., Vermeij, M. J. A., & Medina, M. (2019). [Acquisition of obligate mutualist symbionts during the larval stage is not beneficial for a coral host](https://onlinelibrary.wiley.com/doi/abs/10.1111/mec.14967){:target="_blank"}. Molecular ecology, 28(1), 141-155.
 - O'Rourke, A., Ohdera, A., Sunagawa, S., **Diaz-Almeyda, E. M.**, DeSalvo, M. K., Coffroth, M. A., Voolstra, C. R., & Medina, M. (2017). [Gene expression of settled and metamorphosed _Orbicella faveolata_ during establishment of symbiosis (No. e3283v1)](https://peerj.com/preprints/3283/){:target="_blank"}. PeerJ Preprints.
 
-# <a id="env"></a>Coastal microbial biodiversity in coupled human-environment systems
+# <a id="coastal"></a>Sustainable land/water management and coastal microbial diversity
 
-My lab is engaged in longitudinal microbial biodiversity assessments in coupled human-environment systems, including: the [Triangle Ranch Conservation Area](https://www.conservationfoundation.com/triangle-ranch-conservation-area/?back=Properties){:target="_blank"} that surrounds the Myakka River; beaches and reefs in the Florida Keys; and coastal landscape design at the [Florida House Institute](http://floridahouseinstitute.org){:target="_blank"}. Cohorts of undergraduate researchers in my lab are documenting microbial diversity and generating long-term datasets to support community stakeholders and decision-makers involved in water and land management.
+I am engaged in longitudinal microbial diversity assessments in coupled human-environment coastal systems, including: the [Triangle Ranch Conservation Area](https://www.conservationfoundation.com/triangle-ranch-conservation-area/){:target="_blank"} that surrounds the Myakka River in Florida; beaches and reefs in the Florida Keys; and sustainable landscape design at the [Florida House Institute](http://floridahouseinstitute.org){:target="_blank"}. I document microbial diversity and generate long-term datasets to support community stakeholders and decision-makers involved in water and land management.
 
 <img src="/assets/img/trca.jpg">
-<p class="my-img-cap">Undergraduate researchers during fieldwork at the Triangle Ranch Conservation Area.</p>
+<p class="my-img-cap">Lab members during fieldwork at the Triangle Ranch Conservation Area.</p>
 
-My lab is also collaborating with anthropologists, botanists, geographers, and community stakeholders to document changes in biodiversity in fragile ecosystems and archaeological sites that are projected to be affected by climate change and rising sea level in the near-term. My lab is documenting microbes associated with a coastal architecture called [tabby](https://en.wikipedia.org/wiki/Tabby_concrete){:target="_blank"} (an 18th to early 20th century architectural material made from oyster shells) at [De Soto National Memorial](https://www.nps.gov/deso/index.htm){:target="_blank"}. Our goal is to inform management practices and contribute to the conservation of coastal heritage.
+# <a id="seas"></a>Rising seas impact coastal microbial diversity
 
-# <a id="river"></a>Host-microbe interactions in agroecology
-
-My lab aims to understand host-microbe interactions that support a variety of sustainable agroecological practices. We are currently investigating the mechanisms underlying the antibiotic disease resistance in soil exposed to Milpa, an ancient agricultural polycrop from Mesoamerica. We are also assessing microbial biodiversity in urban food forests.
-
-<p><img src="/assets/img/kino.jpg"></p>
-<p class="my-img-cap">Poster presentation on Milpa research with undergraduate advisee Kino Maravillas.</p>
-
-Agricultural pests and their microbes are an excellent experimental system to study host-microbe interactions. In collaboration with the [Gerardo Lab](https://scholarblogs.emory.edu/gerardolab/){:target="_blank"} at Emory University, we use transcriptomics to understand how the absence of an obligate symbiont impacts the overall health of its host as well as the detailed mechanisms how the insect gut (crypts) harbours microbial symbionts.
-
-Using experimental evolution with squash bugs (_Anasa tristis_) and their horizontally transmitted symbiont (_Burkholderia_) we explore how the mode of transmission of the symbiont affects the fitness of the symbiont and its host.
-
-Our broader goal of this research is to reduce or eliminate pesticide use in managing agricultural pests.
-
-Related publications:
-- Effect of diet on symbiont density within an invasive agricultural pest (in prep)
-- Effect of presence/absence of obligate symbionts in Kudzu bugs (_Megacopta cribaria_) (in prep)
-- Evolving _Burkholderia_ symbionts in the presence and absence of their insect host (in prep)
-- Maravillas, K. E., **Diaz-Almeyda, E.**, & Gerardo, N. (2019). [Bacterial Growth in Milpa Polyculture and Monoculture Soils \[Emory University\]](https://www.jsr.org/index.php/path/article/view/691){:target="_blank"}. Journal of Student Research.
+With colleagues in anthropology, botany, geography, and community stakeholders, I assess microbial diversity in ecosystems and archaeological sites projected to be affected by near-term sea level rise. I document microbes associated with [tabby](https://en.wikipedia.org/wiki/Tabby_concrete){:target="_blank"} (an 18th to early 20th century coastal architectural material made from oyster shells) and other key material substrates at [De Soto National Memorial](https://www.nps.gov/deso/index.htm){:target="_blank"} on Florida’s Gulf Coast. Our goal is to inform management practices and contribute to the conservation of coastal heritage sites.
 
 # <a id="pub"></a>Publications
 
