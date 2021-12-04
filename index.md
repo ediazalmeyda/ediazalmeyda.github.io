@@ -20,8 +20,7 @@ layout: default
 
 # Lab News!
 
-**Nov 19, 2021** - New manuscript on inclusive science pedagogy was published in *Frontiers in Communication*!
-<a href="https://doi.org/10.3389/fcomm.2021.731839" target="_blank">https://doi.org/10.3389/fcomm.2021.731839</a>
+**Nov 19, 2021** - A new <a href="https://doi.org/10.3389/fcomm.2021.731839" target="_blank">article on inclusive science pedagogy</a> was published in *Frontiers in Communication*. Congratulations to my interdisciplinary co-authors!
 
 **Oct 27, 2021** - Congratulations to my co-organizers on hosting a successful Latin American Heritage campus event, featuring Mayan cultural scholar and activist, Pedro Uc Be!
 
