@@ -22,7 +22,7 @@ layout: default
 
 **Nov 19, 2021** - A new <a href="https://doi.org/10.3389/fcomm.2021.731839" target="_blank">article on inclusive science pedagogy</a> was published in *Frontiers in Communication*. Congratulations to my interdisciplinary co-authors!
 
-**Oct 27, 2021** - Congratulations to my co-organizers on hosting a successful Latin American Heritage campus event, featuring Mayan cultural scholar and activist, Pedro Uc Be, presenting on <a href="https://awasqa.org/en/2021/10/06/what-is-maya-what-is-to-be-maya/" target="_blank">What is Maya, What Is To Be Maya?</a>.
+**Oct 27, 2021** - Congratulations to my co-organizers on hosting a successful Latin American Heritage campus event, featuring Mayan cultural scholar and activist, Pedro Uc Be, presenting on <a href="https://awasqa.org/en/2021/10/06/what-is-maya-what-is-to-be-maya/" target="_blank">What is Maya, What Is To Be Maya?</a>
 
 **Aug 24, 2021** - Congratulations to **six of my amazing undergraduate researchers** on co-authoring a manuscript we just submitted!
 
