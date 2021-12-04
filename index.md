@@ -18,6 +18,15 @@ layout: default
   </div>
 </div>
 
+# Lab News!
+
+**Nov 19, 2021** - New manuscript on inclusive science pedagogy was published in *Frontiers in Communication*!
+<a href="https://doi.org/10.3389/fcomm.2021.731839" target="_blank">https://doi.org/10.3389/fcomm.2021.731839</a>
+
+**Oct 27, 2021** - Congratulations to my co-organizers on hosting a successful Latin American Heritage campus event, featuring Mayan cultural scholar and activist, Pedro Uc Be!
+
+**Aug 24, 2021** - Congratulations to six of my amazing undergraduate researchers on co-authoring a manuscript we just submitted!
+
 # Microbial ecology of symbiosis, climate change, and Indigenous and sustainable practices
 
 I am a microbial ecologist with research interests at the nexus of symbiosis, climate change, and Indigenous and sustainable practices. I study how host-associated microbiota are affected by climate change, and the relationships between microbial diversity and land/water management. My projects are embedded in frameworks of community- and place-based research to advance social equity by including local stakeholders, particularly in Indigenous and sustainable managers.
