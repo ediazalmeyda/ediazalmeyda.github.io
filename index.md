@@ -20,6 +20,8 @@ layout: default
 
 # Lab News!
 
+**Feb 7, 2022** - Our research on the <a href="https://www.ncf.edu/news/news/the-florida-microbiome-project-mapping-microbial-communities-to-support-environmental-health/" target="_blank">Florida Microbiome Project</a> was recently highlighted in the New College News. Congratulations to my amazing junior research collaborators!
+
 **Nov 19, 2021** - Our new <a href="https://doi.org/10.3389/fcomm.2021.731839" target="_blank">article on inclusive science pedagogy</a> was published in *Frontiers in Communication*. Congratulations to my interdisciplinary co-authors (<a href="https://michaelromano.org" target="_blank">Michael Romano</a>, <a href="https://www.takingcharge.csh.umn.edu/our-experts/tenzin-namdul-dtms-ba-phccc" target="_blank">Tenzin Namdul</a>, and <a href="https://thubtenchodron.org/author/gesheyeshilhundup/" target="_blank">Geshe Yeshi Lhundup</a>)!
 
 **Nov 3, 2021** - Congratulations to my interdisciplinary colleague in Anthropology, <a href="https://sites.google.com/a/ncf.edu/baram/" target="_blank">Uzi Baram</a>, on our recently published <a href="https://ncf-flvc.primo.exlibrisgroup.com/permalink/01FALSC_NCF/1ib1koo/alma99383194550206582" target="_blank">research report</a> exploring microbial communities at cultural heritage sites!
