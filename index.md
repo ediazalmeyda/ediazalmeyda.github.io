@@ -1,5 +1,6 @@
 ---
 layout: default
+title: About
 ---
 
 <div class="my-hero-align my-pad-top">
