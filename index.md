@@ -14,7 +14,7 @@ layout: default
   </div>
 </div>
 
-<br><p><b>Core faculty member:</b><br>Biology &nbsp;|&nbsp; Marine Biology &nbsp;|&nbsp; Environmental Studies &nbsp;|&nbsp; Pritzker Marine Biology Research Center</p>
+<p><b>Core faculty member:</b><br>Biology &nbsp;|&nbsp; Marine Biology &nbsp;|&nbsp; Environmental Studies &nbsp;|&nbsp; Pritzker Marine Biology Research Center</p>
 
 <div class="my-hero"><img src="assets/img/diving.jpg"><p>Professor Díaz-Almeyda diving at the Mesoamerican Barrier Reef.</p></div>
 
