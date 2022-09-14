@@ -2,11 +2,11 @@
 layout: default
 ---
 
-<div class="my-flex">
-  <div class="my-hero-about-img">
+<div class="my-flex my-profile">
+  <div class="my-col-33">
     <img src="assets/img/profile.jpg">
   </div>
-  <div class="my-hero-about-txt">
+  <div class="my-col-67">
     <h1>Erika Díaz-Almeyda, Ph.D.</h1>
     <p>Assistant Professor of Biology and Environmental Studies<br>
       New College of Florida</p>
