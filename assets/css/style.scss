@@ -80,7 +80,7 @@ body {
 /* Content */
 
 .my-content {
-  padding: 1em 0;
+  padding: 0 0 1em 0;
 }
 
 .my-profile {
@@ -161,10 +161,6 @@ body {
     width: 100%;
     height: auto;
     border-radius: 50%;
-  }
-
-  .my-content-img {
-    width: 70%;
   }
 }
 @media all and (min-width: 1025px) {
