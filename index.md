@@ -13,7 +13,7 @@ layout: default
     <p><a href="#">E-mail</a> &nbsp;|&nbsp; <a href="#">Google Scholar</a> &nbsp;|&nbsp; <a href="#">Twitter</a></p>
   </div>
 </div>
-
+<p></p>
 <p><b>Core faculty member:</b><br>Biology &nbsp;|&nbsp; Marine Biology &nbsp;|&nbsp; Environmental Studies &nbsp;|&nbsp; Pritzker Marine Biology Research Center</p>
 
 <div class="my-hero"><img src="assets/img/diving.jpg"><p>Professor Díaz-Almeyda diving at the Mesoamerican Barrier Reef.</p></div>
