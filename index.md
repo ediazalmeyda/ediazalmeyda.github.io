@@ -1,87 +1,27 @@
 ---
 layout: default
-title: About
 ---
 
-<div class="my-hero-align my-pad-top">
-  <div class="my-flex my-col-center">
-    <div class="my-col-40 my-hero-profile">
-      <img src="/assets/img/profile.jpg">
-    </div>
-    <div class="my-col-60 my-hero-text">
-      <h2>Erika Díaz-Almeyda, Ph.D.</h2>
-      <div class="my-header-thin">
-        <h2>Assistant Professor of Biology and Environmental Studies</h2>
-        <h2>New College of Florida</h2>
-      </div>
-      <p><a href="mailto:ediazalmeyda@ncf.edu">E-mail</a> | <a href="https://scholar.google.com/citations?user=wlIHaV8AAAAJ" target="_blank">Google Scholar</a> | <a href="https://twitter.com/erikadiazal" target="_blank">Twitter</a></p>
-    </div>
+<div class="my-flex">
+  <div class="my-hero-about-img">
+    <img src="img/profile.jpg">
+  </div>
+  <div class="my-hero-about-txt">
+    <h1>Erika Díaz-Almeyda, Ph.D.</h1>
+    <p>Assistant Professor of Biology and Environmental Studies<br>
+      New College of Florida</p>
+    <p><a href="#">E-mail</a> &nbsp;|&nbsp; <a href="#">Google Scholar</a> &nbsp;|&nbsp; <a href="#">Twitter</a></p>
   </div>
 </div>
 
-# Lab News!
+<p><b>Core faculty member:</b><br>Biology &nbsp;|&nbsp; Marine Biology &nbsp;|&nbsp; Environmental Studies &nbsp;|&nbsp; Pritzker Marine Biology Research Center</p>
 
-**Feb 7, 2022** - Our research on the <a href="https://www.ncf.edu/news/news/the-florida-microbiome-project-mapping-microbial-communities-to-support-environmental-health/" target="_blank">Florida Microbiome Project</a> was recently highlighted in the New College News. Congratulations to my amazing junior research collaborators!
+<div class="my-hero"><img src="img/diving.jpg"><p>Professor Díaz-Almeyda diving at the Mesoamerican Barrier Reef.</p></div>
 
-**Nov 19, 2021** - Our new <a href="https://doi.org/10.3389/fcomm.2021.731839" target="_blank">article on inclusive science pedagogy</a> was published in *Frontiers in Communication*. Congratulations to my interdisciplinary co-authors (<a href="https://michaelromano.org" target="_blank">Michael Romano</a>, <a href="https://www.takingcharge.csh.umn.edu/our-experts/tenzin-namdul-dtms-ba-phccc" target="_blank">Tenzin Namdul</a>, and <a href="https://thubtenchodron.org/author/gesheyeshilhundup/" target="_blank">Geshe Yeshi Lhundup</a>)!
-
-**Nov 3, 2021** - Congratulations to my interdisciplinary colleague in Anthropology, <a href="https://sites.google.com/a/ncf.edu/baram/" target="_blank">Uzi Baram</a>, on our recently published <a href="https://ncf-flvc.primo.exlibrisgroup.com/permalink/01FALSC_NCF/1ib1koo/alma99383194550206582" target="_blank">research report</a> exploring microbial communities at cultural heritage sites!
-
-**Oct 27, 2021** - Congratulations to my co-organizers on hosting a successful Latin American Heritage campus event, featuring Mayan cultural scholar and activist, <a href="https://es.wikipedia.org/wiki/Pedro_Uc_Be" target="_blank">Pedro Uc Be</a>, presenting on <a href="https://awasqa.org/en/2021/10/06/what-is-maya-what-is-to-be-maya/" target="_blank">What is Maya, What Is To Be Maya?</a>
-
-**Aug 24, 2021** - Congratulations to **six of my amazing undergraduate researchers** on co-authoring a manuscript we just submitted on the microbiome of *Symbiodinium* cultures!
-
-# Microbial ecology of symbiosis, climate change, and Indigenous and sustainable practices
-
-I am a microbial ecologist with research interests at the nexus of symbiosis, climate change, and Indigenous and sustainable practices. I study how host-associated microbiota are affected by climate change, and the relationships between microbial diversity and land/water management. My projects are embedded in frameworks of community- and place-based research to advance social equity by including local stakeholders, particularly in Indigenous and sustainable managers.
-
-Anthropogenic stressors threaten host-associated microbiota, presenting critical risks to the interdependent health of hosts, microbes, and ecosystems. I use fieldwork and experimental biology (host-symbiont physiology, genomics, and experimental evolution) to understand how microbial and ecosystem health are connected in sustainable management practices and in a changing climate.
-
-Learn [about my research](/research/).
-
-<p><img src="/assets/img/diving.jpg"></p>
-<p class="my-img-cap">Dr. Díaz diving at the Mesoamerican Barrier Reef System near the UNAM field station in Puerto Morelos, Quintana Roo, México.</p>
-
-# Education
-
-<div class="my-flex-edu">
-  <div class="my-edu-logo"><img src="/assets/img/emory.jpg"></div>
-  <div>
-    <b>NIH-FIRST Postdoctoral Fellow</b><br>
-    Department of Biology<br>
-    <a href="https://www.emory.edu" target="_blank">Emory University</a><br>
-    Advisor: <a href="https://scholarblogs.emory.edu/gerardolab/" target="_blank">Nicole Gerardo</a>
-  </div>
-</div>
-
-<div class="my-flex-edu">
-  <div class="my-edu-logo"><img src="/assets/img/psu.jpg"></div>
-  <div>
-    <b>Ph.D. Biology</b><br>
-    Department of Biology<br>
-    <a href="https://www.psu.edu" target="_blank">Penn State University</a><br>
-    Advisor: <a href="https://www.huck.psu.edu/people/monica-medina" target="_blank">Monica Medina</a>
-  </div>
-</div>
-
-<div class="my-flex-edu">
-  <div class="my-edu-logo"><img src="/assets/img/unam.jpg"></div>
-  <div>
-    <b>M.Sc. Marine Sciences and Limnology</b><br>
-    Instituto de Ciencias del Mar y Limnología (Institute of Marine Sciences and Limnology)<br>
-    <a href="https://www.unam.mx" target="_blank">Universidad Nacional Autónoma de México (National Autonomous University of Mexico)</a><br>
-    Puerto Morelos, Quintana Roo, México<br>
-    Advisor: <a href="https://www.icmyl.unam.mx/puerto_morelos/mazatlan/en/node/26" target="_blank">Patricia Thomé-Ortíz</a>
-  </div>
-</div>
-
-<div class="my-flex-edu">
-  <div class="my-edu-logo"><img src="/assets/img/unam.jpg"></div>
-  <div>
-    <b>B.S. Biology</b><br>
-    Instituto de Ecología (Institute of Ecology)<br>
-    <a href="https://www.unam.mx" target="_blank">Universidad Nacional Autónoma de México (National Autonomous University of Mexico)</a><br>
-    Mexico City, México<br>
-    Advisor: <a href="http://web2.ecologia.unam.mx/perfiles/perfil.php?ID=1237853475640" target="_blank">Daniel Ignacio Piñero-Dalmau</a>
-  </div>
-</div>
+<h1><i class="my-icon-h1"></i>Coastal Microbial Ecology Lab</h1>
+<p>Research in my lab investigates how climate change and rising sea temperatures affect marine symbiosis, and how anthropogenic stressors impact coastal microbial diversity. I use the ridge-to-reef framework to account for natural and social systems affecting the coast.</p>
+<div class="my-content-img"><img src="img/lab.jpg"><p>My fun and creative junior colleagues!</p></div>
+<p>My lab is at a primarily undergraduate institution, and my students are mentored as junior research colleagues. They learn diverse approaches in marine research, including: fieldwork, experimental biology (genomics, host-symbiont physiology, experimental evolution), place- and community-based research inclusive of local stakeholders, collaborating with international teams, interdisciplinary work with social scientists and humanities scholars, and working with Indigenous communities (Mayans in the Yucatán Peninsula). My students co-author manuscripts, present at conferences, and continue research in graduate programs.</p>
+<div class="my-content-img"><img src="img/map.jpg"><p>Map of field research sites.</p></div>
+<p>Climate change and other anthropogenic stressors threaten symbiosis and microbial diversity, resulting in critical risks to the interdependent health of hosts, microbes, ecosystems, and, ultimately, people and coastal communities. My local and international field sites include: coastal sites near my institution; the Florida Keys; the two major coral reef systems in México—the Mesoamerican Barrier Reef System and the Veracruzano Reef System; and the central Mexican Pacific coast.</p>
+<p>In fieldwork, I collaborate with researchers at UNAM Puerto Morelos at the Mesoamerican Barrier Reef System, Universidad Veracruzana at the Veracruzano Reef System, and with MOTE Marine Laboratory in restoration efforts of reef-building corals in the Florida Keys.</p>
