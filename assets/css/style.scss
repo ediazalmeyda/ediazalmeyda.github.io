@@ -15,25 +15,25 @@ body {
   color: #2b1c50;
 }
 
-h1, h2, h3, h4 {
+.markdown-body h1, h2, h3, h4 {
   font-family: 'Ubuntu', Helvetica, Arial, Verdana, sans-serif;
   font-weight: 700;
   border: 0;
 }
-h1 {
+.markdown-body h1 {
   font-size: 1.5em;
 }
-h2 {
+.markdown-body h2 {
   font-size: 1.25em;
 }
-h3 {
+.markdown-body h3 {
   font-size: 1.125em;
 }
-h4 {
+.markdown-body h4 {
   font-size: 1em;
 }
 
-a {
+.markdown-body a {
   font-weight: 700;
   color: #0774d1;
   text-decoration: none;
