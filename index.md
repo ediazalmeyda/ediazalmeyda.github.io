@@ -36,20 +36,20 @@ layout: default
 
 <h1 id="research"><i class="my-icon-h1"></i>Climate change and symbiosis in marine invertebrates (corals, jellyfish)</h1>
 <p>Climate change disrupts coral-algal symbiosis, resulting in coral bleaching and death. I explore the interdependent relationships between symbiont diversity, thermal stress, and time, as they relate to coral reef health. Significant knowledge gaps remain regarding the diversity, coral host-compatibility, and thermotolerance of algal symbionts; questions central to coral reef restoration efforts.</p>
-<div class="my-content-img"><img src="img/jellyfish.jpg"><p>The upside-down jellyfish <i>Cassiopea xamachana</i>.</p></div>
+<div class="my-content-img"><img src="assets/img/jellyfish.jpg"><p>The upside-down jellyfish <i>Cassiopea xamachana</i>.</p></div>
 <p>Using fieldwork and experimental biology, I study thermotolerance of Symbiodiniaceae (algal symbionts inside corals and jellyfish) to advance restoration efforts. My lab uses the upside-down jellyfish <i>Cassiopea xamachana</i> (a cnidarian, like coral) as a model organism to explore questions of host-microbe interactions, and to test novel approaches of growing Symbiodiniaceae. Jellyfish are low-maintenance and fast-growing, perfect for undergraduate and master’s theses compared with corals.</p>
-<div class="my-content-img"><img src="img/coral1.jpg"><p>Colony of <i>Orbicella faveolata</i> coral in the field.</p></div>
+<div class="my-content-img"><img src="assets/img/coral1.jpg"><p>Colony of <i>Orbicella faveolata</i> coral in the field.</p></div>
 <p>In physiology experiments, I explore the vast diversity of Symbiodiniaceae species, as I discovered that thermotolerance is not a phylogenetically conserved trait. Using genomics, I identify mechanisms of symbiont thermotolerance and chronobiology to explain coordination of coral-algal symbiosis. I also explore transcriptomic responses of <i>Orbicella faveolata</i>, a crucial reef-building coral susceptible to mass bleaching.</p>
 
 <h1><i class="my-icon-h1"></i>Microbial diversity in coastal ecosystems</h1>
 <p>Little is understood about place-based, long-term microbial diversity in coupled human-environment coastal systems. To fill this gap, I engage in longitudinal microbial diversity assessments at coastal sites (ocean, coastline, rivers) to establish diversity baselines, which can serve as an early warning indicator of ecosystem disruption, particularly in fragile coastal areas threatened by climate change, sea level rise, land-use runoff, and other anthropogenic impacts.</p>
-<div class="my-content-img"><img src="img/trca.jpg"><p>Undergraduate researchers during fieldwork at the Triangle Ranch Conservation Area.</p></div>
+<div class="my-content-img"><img src="assets/img/trca.jpg"><p>Undergraduate researchers during fieldwork at the Triangle Ranch Conservation Area.</p></div>
 <p>I conduct longitudinal research at coastal sites near my institution, including: the Triangle Ranch Conservation Area; Florida Keys; seagrass biofilms; food forests; and the Florida House Institute. This research is perfect for undergraduate and master’s theses because the methodologies are quickly learned, and new students continue to grow datasets from previous years, raising new questions while providing new ways to answer them. I document land management practices, estimate water and soil nutrients, and generate biodiversity flora and microbial inventories. Long-term datasets support community stakeholders involved in water and land management. For example, coastal Florida has sandy soils with low water retention, increasing the flow of excess nutrients into rivers that flow into the Gulf, resulting in harmful algal blooms.</p>
 <p>With interdisciplinary colleagues, I assess microbial diversity at archaeological sites projected to be impacted by near-term sea level rise, such as microbes associated with tabby (an 18th century architectural material made from oyster shells) and other key material substrates at De Soto National Memorial on the Gulf Coast. We observed an increase of halotolerant bacteria and archaea, and bacteria associated with harmful algal blooms, suggesting that built environments can be reservoirs of harmful algae.</p>
 
 <h1><i class="my-icon-h1"></i>Education</h1>
 <div class="my-content-edu">
-  <div class="my-content-edu-logo"><img src="img/edu-emory.jpg"></div>
+  <div class="my-content-edu-logo"><img src="assets/img/edu-emory.jpg"></div>
   <div>
     <p><b>NIH-FIRST Postdoctoral Fellow</b><br>
       <a href="https://www.emory.edu" target="_blank">Emory University</a><br>
@@ -57,7 +57,7 @@ layout: default
   </div>
 </div>
 <div class="my-content-edu">
-  <div class="my-content-edu-logo"><img src="img/edu-psu.jpg"></div>
+  <div class="my-content-edu-logo"><img src="assets/img/edu-psu.jpg"></div>
   <div>
     <p><b>Ph.D. Biology</b><br>
       <a href="https://www.psu.edu" target="_blank">Penn State University</a><br>
@@ -65,7 +65,7 @@ layout: default
   </div>
 </div>
 <div class="my-content-edu">
-  <div class="my-content-edu-logo"><img src="img/edu-unam.jpg"></div>
+  <div class="my-content-edu-logo"><img src="assets/img/edu-unam.jpg"></div>
   <div>
     <p><b>M.Sc. Marine Sciences and Limnology</b><br>
       <a href="https://www.unam.mx/" target="_blank">Universidad Nacional Autónoma de México (National Autonomous University of México)</a><br>
@@ -74,7 +74,7 @@ layout: default
   </div>
 </div>
 <div class="my-content-edu">
-  <div class="my-content-edu-logo"><img src="img/edu-unam.jpg"></div>
+  <div class="my-content-edu-logo"><img src="assets/img/edu-unam.jpg"></div>
   <div>
     <p><b>B.S. Biology</b><br>
       <a href="https://www.unam.mx/" target="_blank">Universidad Nacional Autónoma de México (National Autonomous University of México)</a><br>
