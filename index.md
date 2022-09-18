@@ -29,7 +29,9 @@ layout: default
 <p>Learn more <a href="#research">about my research</a>.</p>
 
 <h1><i class="my-icon-h1"></i>Lab News!</h1>
+<p><b>Jul 22, 2022</b> - Congratulations to my amazing co-authors on our <a href="https://www.biorxiv.org/content/10.1101/2022.07.21.500558v1" target="_blank">recently submitted manuscript</a>!</p>
 <p><b>Jun 24, 2022</b> - Our research on the <a href="http://www.scenesarasota.com/magazine/education-matters-studying-the-invisible-dr-erika-diaz-almeydas-research-on-microbiomes/" target="_blank">Florida Microbiome Project</a>, which aims to assess the health of our coastal ecosystems, was highlighted in the Sarasota SCENE. Congratulations to my amazing junior research collaborators!</p>
+<p><b>Jun 20, 2022</b> - Congratulations to my amazing co-authors on our <a href="https://www.preprints.org/manuscript/202206.0284/v1" target="_blank">recently submitted manuscript</a>!</p>
 <p><b>Jun 14, 2022</b> - Many thanks to the <b>Andrew W. Mellon Foundation</b> for their generous funding to support my work in developing CUREs (Course-based Undergraduate Research Experiences) to discover local microbes for community health.</p>
 <p><b>May 19, 2022</b> - Congratulations to <b>six of my amazing undergraduate researchers</b> on our accepted manuscript on <a href="https://www.frontiersin.org/articles/10.3389/fevo.2022.764086/full" target="_blank">the bacterial community associated with Symbiodiniaceae in culture</a>, now published in <i>Frontiers in Ecology and Evolution</i>!</p>
 <p><b>Mar 21, 2022</b> - Congratulations to <b>two of my amazing undergraduate researchers</b> on co-authoring a manuscript we just submitted on <a href="https://ecoevorxiv.org/vj2zn/" target="_blank">Urban Food Forestry</a>!</p>
