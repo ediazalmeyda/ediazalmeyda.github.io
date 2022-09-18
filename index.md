@@ -73,17 +73,15 @@ layout: default
   <div class="my-content-edu-logo"><img src="assets/img/edu-unam.jpg"></div>
   <div>
     <p><b>M.Sc. Marine Sciences and Limnology</b><br>
-      <a href="https://www.unam.mx/" target="_blank">Universidad Nacional Autónoma de México (National Autonomous University of México)</a><br>
-      Instituto de Ciencias del Mar y Limnología (Institute of Marine Sciences and Limnology)<br>
-      Puerto Morelos, Quintana Roo, México</p>
+      <a href="https://www.unam.mx/" target="_blank">Universidad Nacional Autónoma de México (National Autonomous University of México)</a>, Puerto Morelos, Quintana Roo, México<br>
+      Instituto de Ciencias del Mar y Limnología (Institute of Marine Sciences and Limnology)</p>
   </div>
 </div>
 <div class="my-content-edu">
   <div class="my-content-edu-logo"><img src="assets/img/edu-unam.jpg"></div>
   <div>
     <p><b>B.S. Biology</b><br>
-      <a href="https://www.unam.mx/" target="_blank">Universidad Nacional Autónoma de México (National Autonomous University of México)</a><br>
-      Instituto de Ecología (Institute of Ecology)<br>
-      México City, México</p>
+      <a href="https://www.unam.mx/" target="_blank">Universidad Nacional Autónoma de México (National Autonomous University of México)</a>, México City, México<br>
+      Instituto de Ecología (Institute of Ecology)</p>
   </div>
 </div>
