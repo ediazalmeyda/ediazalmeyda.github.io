@@ -29,8 +29,6 @@ layout: default
 <p>Learn more <a href="#research">about my research</a>.</p>
 
 <h1><i class="my-icon-h1"></i>Lab News!</h1>
-<p><b>Oct 24, 2022</b> - Congratulations to my wonderful collaborators on our successful presentation at the Raising Indigenous Voices in Academia and Society (RIVAS) conference!</p>
-<p><b>Oct 12, 2022</b> - In recognition of my efforts in expanding inclusion and belonging among underrepresented peoples in STEM, I am honored to have been selected as the <b>Best Teacher Award winner</b> from the inaugural Vanderbilt Basic Sciences’ Hispanic and Latin Heritage Month. Muchas gracias!</p>
 <p><b>Jul 22, 2022</b> - Congratulations to my amazing co-authors on our <a href="https://www.biorxiv.org/content/10.1101/2022.07.21.500558v1" target="_blank">recently submitted manuscript</a> on the upside-down jellyfish <i>Cassiopea xamachana</i>!</p>
 <p><b>Jun 24, 2022</b> - Our research on the <a href="http://www.scenesarasota.com/magazine/education-matters-studying-the-invisible-dr-erika-diaz-almeydas-research-on-microbiomes/" target="_blank">Florida Microbiome Project</a>, which aims to assess the health of our coastal ecosystems, was highlighted in the Sarasota SCENE. Congratulations to my amazing junior research collaborators!</p>
 <p><b>Jun 20, 2022</b> - Congratulations to my amazing co-authors on our <a href="https://www.preprints.org/manuscript/202206.0284/v1" target="_blank">recently submitted manuscript</a> on the dinoflagellate family Symbiodiniaceae!</p>
