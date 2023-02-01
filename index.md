@@ -10,7 +10,7 @@ layout: default
     <h1>Erika Díaz-Almeyda, Ph.D.</h1>
     <p>Assistant Professor of Biology and Environmental Studies<br>
       New College of Florida</p>
-    <p><a href="mailto:ediazalmeyda@ncf.edu">E-mail</a> &nbsp;|&nbsp; <a href="https://scholar.google.com/citations?user=wlIHaV8AAAAJ" target="_blank">Google Scholar</a> &nbsp;|&nbsp; <a href="https://twitter.com/erikadiazal" target="_blank">Twitter</a></p>
+    <p><a href="mailto:ediazalmeyda@ncf.edu">E-mail</a> &nbsp;|&nbsp; <a href="https://scholar.google.com/citations?user=wlIHaV8AAAAJ" target="_blank">Google Scholar</a></p>
   </div>
 </div>
 <p></p>
