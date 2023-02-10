@@ -8,13 +8,10 @@ layout: default
   </div>
   <div class="my-col-67">
     <h1>Erika Díaz-Almeyda, Ph.D.</h1>
-    <p>Assistant Professor of Biology and Environmental Studies<br>
-      New College of Florida</p>
-    <p><a href="mailto:ediazalmeyda@ncf.edu">E-mail</a> &nbsp;|&nbsp; <a href="https://scholar.google.com/citations?user=wlIHaV8AAAAJ" target="_blank">Google Scholar</a></p>
+    <p>Assistant Professor of Biology and Environmental Studies</p>
+    <p><a href="https://scholar.google.com/citations?user=wlIHaV8AAAAJ" target="_blank">Google Scholar</a></p>
   </div>
 </div>
-<p></p>
-<p><b>Core faculty member:</b><br>Biology &nbsp;|&nbsp; Marine Biology &nbsp;|&nbsp; Environmental Studies &nbsp;|&nbsp; Pritzker Marine Biology Research Center</p>
 
 <div class="my-hero"><img src="assets/img/diving.jpg"><p>Professor Díaz-Almeyda diving at the Mesoamerican Barrier Reef.</p></div>
 
@@ -36,7 +33,7 @@ layout: default
 <p><b>May 19, 2022</b> - Congratulations to <b>six of my amazing undergraduate researchers</b> on our accepted manuscript on <a href="https://www.frontiersin.org/articles/10.3389/fevo.2022.764086/full" target="_blank">the bacterial community associated with Symbiodiniaceae in culture</a>, now published in <i>Frontiers in Ecology and Evolution</i>!</p>
 <p><b>May 5, 2022</b> - Congratulations to my student presenters at <a href="https://www.ncf.edu/event/microbe-day/" target="_blank">the 4th Annual Microbe Day</a>! So many amazing presentations at the intersection of microbiology and the arts!</p>
 <p><b>Mar 21, 2022</b> - Congratulations to <b>two of my amazing undergraduate researchers</b> on co-authoring a manuscript we just submitted on <a href="https://ecoevorxiv.org/vj2zn/" target="_blank">Urban Food Forestry</a>!</p>
-<p><b>Feb 7, 2022</b> - Our research on the <a href="https://www.ncf.edu/news/news/the-florida-microbiome-project-mapping-microbial-communities-to-support-environmental-health/" target="_blank">Florida Microbiome Project</a> was recently highlighted in the New College News. Congratulations to my amazing junior research collaborators!</p>
+<p><b>Feb 7, 2022</b> - Our research on the <a href="https://www.ncf.edu/news/news/the-florida-microbiome-project-mapping-microbial-communities-to-support-environmental-health/" target="_blank">Florida Microbiome Project</a> was recently highlighted. Congratulations to my amazing junior research collaborators!</p>
 <p><b>Dec 17, 2021</b> - Many thanks to the Mind & Life Institute for <a href="https://www.mindandlife.org/grant/documenting-mayan-milpa-biocultural-heritage-through-embodied-ethnoecology/" target="_blank">awarding my lab with the Varela Grant</a>! This generous funding will support our research on Mayan traditional ecological knowledge in the Yucatán Peninsula.</p>
 <p><b>Nov 19, 2021</b> - Our new article on science pedagogy was published in <i>Frontiers in Communication</i>. Congratulations to my interdisciplinary co-authors!</p>
 <p><b>Nov 3, 2021</b> - Congratulations to my interdisciplinary colleague in Anthropology, <a href="https://sites.google.com/a/ncf.edu/baram/" target="_blank">Uzi Baram</a>, on our recently published <a href="https://ncf-flvc.primo.exlibrisgroup.com/permalink/01FALSC_NCF/1ib1koo/alma99383194550206582" target="_blank">research report</a> exploring microbial communities at cultural heritage sites!</p>
