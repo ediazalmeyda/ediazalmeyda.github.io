@@ -57,7 +57,7 @@ layout: default
 <div class="my-content-edu">
   <div class="my-content-edu-logo"><img src="assets/img/edu-emory.jpg"></div>
   <div>
-    <p><b>NIH-FIRST Postdoctoral Fellow</b><br>
+    <p><b>Postdoctoral Fellow</b><br>
       <a href="https://www.emory.edu" target="_blank">Emory University</a><br>
       Department of Biology</p>
   </div>
