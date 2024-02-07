@@ -8,7 +8,8 @@ layout: default
   </div>
   <div class="my-col-67">
     <h1>Erika Díaz-Almeyda, Ph.D.</h1>
-    <p>Assistant Professor of Biology and Environmental Studies</p>
+    <p>Assistant Professor of Biology<br>
+    Cal State San Marcos</p>
     <p><a href="https://scholar.google.com/citations?user=wlIHaV8AAAAJ" target="_blank">Google Scholar</a></p>
   </div>
 </div>
