@@ -3,10 +3,10 @@ layout: default
 ---
 
 <div class="my-flex my-profile">
-  <div class="my-col-33">
+  <div class="my-col-25">
     <img src="assets/img/profile.jpg">
   </div>
-  <div class="my-col-67">
+  <div class="my-col-75">
     <h1>Erika Díaz-Almeyda, Ph.D.</h1>
     <p>Assistant Professor of Biology<br>
     Cal State San Marcos</p>
